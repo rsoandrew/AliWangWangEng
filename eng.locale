@@ -226,63 +226,63 @@
 
 		<String id ="shop.addshop.title">添加店铺</String>
 
-		<String id ="systemsetting">系统设置</String>
-		<String id ="systemsetting.general">登录</String>
-		<String id ="systemsetting.general.autorun">启动电脑时自动启动阿里旺旺</String>
-		<String id ="systemsetting.general.exitConfirm">退出时弹出确认窗口</String>
-    	<String id ="systemsetting.general.loginwithchat">登录阿里旺旺同时登录阿里旺旺</String>
-		<String id ="systemsetting.mainframe">主界面</String>
-		<String id ="systemsetting.mainframe.autohide">停靠在桌面边缘时自动隐藏</String>
-		<String id ="systemsetting.mainframe.top">始终保持在其他窗口前面</String>
-		<String id ="systemsetting.mainframe.showInTaskbar">在任务栏显示主界面按钮</String>
-		<String id ="systemsetting.floatwindow">浮出窗口</String>
-		<String id ="systemsetting.alert.float">新提醒时浮出</String>
-		<String id ="systemsetting.voice">声音</String>
-		<String id ="systemsetting.alert.voice">新提醒时有声音</String>
-		<String id ="systemsetting.hotkey">热键</String>
-		<String id ="systemsetting.hotkey.conflict">热键冲突</String>
-		<String id ="systemsetting.hotkey.overturn">一键翻转</String>
-		<String id ="systemsetting.hotkey.mainframe">查看消息</String>
-		<String id ="systemsetting.hotkey.cut">屏幕截图</String>
-		<String id ="systemsetting.filetrans">文件传输</String>
-		<String id ="systemsetting.filetrans.recvfiledefaultpath">接收文件的默认位置：</String>
-		<String id ="systemsetting.filetrans.browser">浏览</String>
-		<String id ="systemsetting.pwd">密码</String>
-		<String id ="systemsetting.pwd.change.prefix">为了你的账户安全，请定时</String>
-		<String id ="systemsetting.pwd.change">修改密码</String>
-    	<String id ="systemsetting.other">其他</String>
-    	<String id ="systemsetting.other.rejectstranger">不接受陌生人消息（陌生人：从未联系过的用户。陌生卖家除外）</String>
-    	<String id ="systemsetting.ok">确认</String>
-		<String id ="systemsetting.cancel">取消</String>
-		<String id ="systemsetting.popreminder">弹出提醒</String>
-		<String id ="systemsetting.popreminder.ww">旺旺提醒</String>
-		<String id ="systemsetting.popreminder.news">资讯提醒</String>
-		<String id ="systemsetting.popreminder.goods">订阅提醒</String>
-		<String id ="systemsetting.popreminder.shop">店铺提醒</String>
-		<String id ="systemsetting.popreminder.mine">我的提醒</String>
-		<String id ="systemsetting.popreminder.calendar">日历提醒</String>
-		<String id ="systemsetting.language">语言</String>
-		<String id ="systemsetting.languagetips">（需要重新启动阿里旺旺）</String>
+		<String id ="systemsetting">System Settings</String>
+		<String id ="systemsetting.general">Login</String>
+		<String id ="systemsetting.general.autorun">Automatically launch Ali Wangwang when starting the computer</String>
+		<String id ="systemsetting.general.exitConfirm"> popup confirmation window when exiting</String>
+		<String id ="systemsetting.general.loginwithchat">Log in to Ali Wangwang and log in to Ali Wangwang</String>
+		<String id ="systemsetting.mainframe">Main interface</String>
+		<String id ="systemsetting.mainframe.autohide">Automatically hide when docked at the edge of the desktop</String>
+		<String id ="systemsetting.mainframe.top">Always stay in front of other windows</String>
+		<String id ="systemsetting.mainframe.showInTaskbar">Show the main interface button in the taskbar</String>
+		<String id ="systemsetting.floatwindow">Floating the window</String>
+		<String id ="systemsetting.alert.float">Floating when a new reminder</String>
+		<String id ="systemsetting.voice">sound</String>
+		<String id ="systemsetting.alert.voice">Sound when there is a new reminder</String>
+		<String id ="systemsetting.hotkey">hotkey</String>
+		<String id ="systemsetting.hotkey.conflict">Hotkey conflict</String>
+		<String id ="systemsetting.hotkey.overturn">One-click flip</String>
+		<String id ="systemsetting.hotkey.mainframe">View message</String>
+		<String id ="systemsetting.hotkey.cut">screenshot</String>
+		<String id ="systemsetting.filetrans">File Transfer</String>
+		<String id ="systemsetting.filetrans.recvfiledefaultpath">Use default file path:</String>
+		<String id ="systemsetting.filetrans.browser">Browse</String>
+		<String id ="systemsetting.pwd">password</String>
+		<String id ="systemsetting.pwd.change.prefix">For your account security, please wait </String>
+		<String id ="systemsetting.pwd.change">Modify password</String>
+		<String id ="systemsetting.other">Other</String>
+		<String id ="systemsetting.other.rejectstranger">Do not accept message from strangers.(except from new sellers)</String>
+		<String id ="systemsetting.ok">Confirm</String>
+		<String id ="systemsetting.cancel">Cancel</String>
+		<String id ="systemsetting.popreminder">popup reminder</String>
+		<String id ="systemsetting.popreminder.ww">Wangwang Reminder</String>
+		<String id ="systemsetting.popreminder.news">Information Reminder</String>
+		<String id ="systemsetting.popreminder.goods">Subscription Alert</String>
+		<String id ="systemsetting.popreminder.shop">Store Reminder</String>
+		<String id ="systemsetting.popreminder.mine">My Reminder</String>
+		<String id ="systemsetting.popreminder.calendar">Calendar Reminder</String>
+		<String id ="systemsetting.language">Language</String>
+		<String id ="systemsetting.languagetips">(Restart Required)</String>
 
-		<String id ="proxysetting.title">代理设置</String>
-		<String id ="proxysetting.general.enable">启用代理</String>
-		<String id ="proxysetting.general.type">类型：</String>
-		<String id ="proxysetting.general.server">代理服务器</String>
-		<String id ="proxysetting.general.server.host">服务器：</String>
-		<String id ="proxysetting.general.server.port">端口：</String>
-		<String id ="proxysetting.general.server.domain">  域：</String>
-		<String id ="proxysetting.general.server.username">用户名：</String>
-		<String id ="proxysetting.general.server.password">密码：</String>
-		<String id ="proxysetting.id_ok">确定</String>
-		<String id ="proxysetting.id_cancel">取消</String>
-		<String id ="proxysetting.id_connect_test">连接测试</String>
-		<String id ="proxysetting.type.none">不使用代理</String>
-		<String id ="proxysetting.type.sock5">sock5代理</String>
-		<String id ="proxysetting.type.http">http代理</String>
-		<String id ="proxysetting.type.browser">浏览器代理</String>
+		<String id ="proxysetting.title">Proxy Settings</String>
+		<String id ="proxysetting.general.enable">Enable proxy</String>
+		<String id ="proxysetting.general.type">Type:</String>
+		<String id ="proxysetting.general.server">Proxy Server</String>
+		<String id ="proxysetting.general.server.host">Server:</String>
+		<String id ="proxysetting.general.server.port">Port:</String>
+		<String id ="proxysetting.general.server.domain"> Domain:</String>
+		<String id ="proxysetting.general.server.username">username:</String>
+		<String id ="proxysetting.general.server.password">Password:</String>
+		<String id ="proxysetting.id_ok">OK</String>
+		<String id ="proxysetting.id_cancel">Cancel</String>
+		<String id ="proxysetting.id_connect_test">Connection Test</String>
+		<String id ="proxysetting.type.none">Do not use proxy</String>
+		<String id ="proxysetting.type.sock5">sock5 proxy</String>
+		<String id ="proxysetting.type.http">http proxy</String>
+		<String id ="proxysetting.type.browser">Browser Proxy</String>
 
-    	<String id="proxy_net_test_ok">测试连接成功</String>
-    	<String id="proxy_net_test_fail">测试连接失败</String>
+    	<String id="proxy_net_test_ok">Test connection succeeded</String>
+		<String id="proxy_net_test_fail">Test connection failed</String>
 
 		<String id ="idok">OK</String>
 		<String id ="idcancel">Cancel</String>
@@ -429,37 +429,37 @@
 		<String id="chat_dialog_onsizing_tip">Support for zooming only in chat state</String>
 
 		<!--Add a Friend 添加好友-->
-		<String id="addcnt.close">关  闭</String>
-		<String id="addcnt.complete">完  成</String>
-		<String id="addcnt.yes">确  定</String>
-		<String id="addcnt.cancel">取  消</String>
-		<String id="contactlist.defoktitle_text">提示</String>
-		<String id="contactlist.addcnttitle_text">添加好友</String>
-		<String id="contactlist.addcnttitle_textex">添加好友</String>
-		<String	id="addcnt.comment">您将添加以下联系人为好友</String>
-		<String id="addcnt.loginid">会员名:</String>
-		<String	id="addcnt.choosegroup">选择组:</String>
-		<String	id="addcnt.inputverifyinfo_label">附言:</String>
-		<String id="search_verify_value">最多可输入10个字。</String>
-		<String	id="addcnt.queston_label">验证问题:</String>
-		<String	id="addcnt.answer_label">回答:</String>
-		<String	id="addcnt.answer_error">答案错误，请重新输入</String>
-		<String	id="addcnt.input_invalid">输入的内容包含违规词</String>
-		<String	id="addcnt.addblankuser">该好友已在您黑名单中，添加好友将会从黑名单中将其删除，确认要加他为好友吗？</String>
-		<String	id="addcnt.editDetailInfo">查看名片</String>
-		<String	id="addcnt.addokinfo">已经成功被您添加为好友</String>
-		<String	id="addcnt.addGrp">新增组</String>
-		<String	id="addcnt.addnewGrp">新增分组</String>
-		<String	id="addcnt.verifyinfo_label">验证信息:</String>
-		<String	id="addcnt.agreeandadd">允许并添加对方</String>
-		<String	id="addcnt.agree">允许对方添加</String>
-		<String	id="addcnt.deny">拒绝</String>
-		<String	id="addcnt.denyandblock">拒绝并加入黑名单</String>
-		<String	id="addcnt.add2black">加入黑名单</String>
-		<String	id="addcnt.notaddadcnt">不加为好友</String>
-		<String	id="addcnt.denyreason_label">拒绝理由:</String>
-		<String id="contactlist.addcontactdeniedtitle_text">添加请求被拒绝</String>
-		<String id="contactlist.addcontactdenied_text">拒绝了您的好友请求!</String>
+		<String id="addcnt.close">Close </String>
+		<String id="addcnt.complete">Complete</String>
+		<String id="addcnt.yes">OK</String>
+		<String id="addcnt.cancel">Cancel</String>
+		<String id="contactlist.defoktitle_text">Tip</String>
+		<String id="contactlist.addcnttitle_text">Add a friend</String>
+		<String id="contactlist.addcnttitle_textex">Add a friend</String>
+		<String id="addcnt.comment">You will add the following contacts as friends</String>
+		<String id="addcnt.loginid">Member Name:</String>
+		<String id="addcnt.choosegroup">Select a group:</String>
+		<String id="addcnt.inputverifyinfo_label">Attachment:</String>
+		<String id="search_verify_value">Up to 10 words can be entered.</String>
+		<String id="addcnt.queston_label">Verify the issue:</String>
+		<String id="addcnt.answer_label">Answer:</String>
+		<String id="addcnt.answer_error">An answer is incorrect, please re-enter</String>
+		<String id="addcnt.input_invalid">The input contains a violation of the word</String>
+		<String id="addcnt.addblankuser">This friend is already on your blacklist. Adding a friend will remove it from the blacklist. Do you want to add him as a friend?</String>
+		<String id="addcnt.editDetailInfo">Edit info</String>
+		<String id="addcnt.addokinfo"> has been successfully added as a friend by you</String>
+		<String id="addcnt.addGrp">Add Group</String>
+		<String id="addcnt.addnewGrp">Add a group</String>
+		<String id="addcnt.verifyinfo_label">Verification information:</String>
+		<String id="addcnt.agreeandadd">Allow and add each other</String>
+		<String id="addcnt.agree">Allow the other party to add</String>
+		<String id="addcnt.deny">Reject</String>
+		<String id="addcnt.denyandblock">Reject and join the blacklist</String>
+		<String id="addcnt.add2black">Add to Blacklist</String>
+		<String id="addcnt.notaddadcnt">Not added as a friend</String>
+		<String id="addcnt.denyreason_label">Rejection reason:</String>
+		<String id="contactlist.addcontactdeniedtitle_text">Add request rejected</String>
+		<String id="contactlist.addcontactdenied_text">Refused your friend request!</String>
 
 		<String id="cucm.alreadyadded_text">这个好友已经存在!</String>
 		<String id="cucm.notexistuser_text">这个用户不存在!</String>
@@ -589,51 +589,52 @@
 		<String id="chat_dialog_close">关闭</String>
 
 		<!--emotion common-->
-		<String id="emotionCommon.moveEmotion">移动表情</String>
-		<String id="emotionCommon.delEmotion">删除表情</String>
-		<String id="emotionCommon.addEmotion">添加表情</String>
-		<String id="emotionCommon.saveEmotion">另存表情</String>
-		<String id="emotionCommon.saveEmotionAs">另存为...</String>
-		<String id="emotionCommon.outputSelectedEmotion">导出选中表情</String>
+		<String id="emotionCommon.moveEmotion">Moving Emoticons</String>
+		<String id="emotionCommon.delEmotion">Delete expressions</String>
+		<String id="emotionCommon.addEmotion">Add an emoticon</String>
+		<String id="emotionCommon.saveEmotion">Save the emoticon</String>
+		<String id="emotionCommon.saveEmotionAs">Save as...</String>
+		<String id="emotionCommon.outputSelectedEmotion">Export selected expressions</String>
 
 		<!--popup emotionmgr-->
-		<String id="popupemotionmgr.systabcaption">基本表情</String>
-		<String id="popupemotionmgr.custabcaption">自定义表情</String>
-		<String id="popupemotionmgr.clickaddemotion">点击添加表情</String>
-		<String id="PopUpEmotionMgr.AddEmotionBtnCaption">添加表情</String>
-		<String id="PopUpEmotionMgr.MgrEmotionBtnCaption">管理表情</String>
+		<String id="popupemotionmgr.systabcaption">Basic Emoticons</String>
+		<String id="popupemotionmgr.custabcaption">Custom Emoticons</String>
+		<String id="popupemotionmgr.clickaddemotion">Click to add an emoticon</String>
+		<String id="PopUpEmotionMgr.AddEmotionBtnCaption">Add Emoticons</String>
+		<String id="PopUpEmotionMgr.MgrEmotionBtnCaption">Manage Emoticons</String>
 
-		<String id="PopUpEmotionMgr.RecentCaption">最近使用表情：</String>
+		<String id="PopUpEmotionMgr.RecentCaption">Recently using emoticons:</String>
 
-		<String id="PopUpEmotionMgr.PrevPageBtnCaption">上一页</String>
-		<String id="PopUpEmotionMgr.NextPageBtnCaption">下一页</String>
-    	<String id="PopUpEmotionMgr.PageCountFormat">%d/%d</String>
+		<String id="PopUpEmotionMgr.PrevPageBtnCaption">Previous page</String>
+		<String id="PopUpEmotionMgr.NextPageBtnCaption">Next Page</String>
+		<String id="PopUpEmotionMgr.PageCountFormat">%d/%d</String>
 
-		<String id="popupflashmgr.album">我的相册</String>
-		<String id="popupflashmgr.systabcaption">魔法表情</String>
-		<String id="popupflashmgr.mytabcaption">我的收藏</String>
-		<String id="flash_auto_play_checkbox">自动播放</String>
-		<String id="popupflashmgr.tospacealbum">点击查看原图</String>
+		<String id="popupflashmgr.album">My Album</String>
+		<String id="popupflashmgr.systabcaption">Magic Expression</String>
+		<String id="popupflashmgr.mytabcaption">My Favorites</String>
+		<String id="flash_auto_play_checkbox">Autoplay</String>
+		<String id="popupflashmgr.tospacealbum">Click to view the original image</String>
 
 		<!--Cus emotionmgr-->
-		<String id="CusEmotionMgr.Caption">管理我的表情</String>
-		<String id="CusEmotionMgr.AddEmotionBtnCaption">添加表情</String>
-		<String id="CusEmotionMgr.EmotionMeaning">表情含义:</String>
-		<String id="CusEmotionMgr.EmotionShortCut">快捷符号:</String>
-		<String id="CusEmotionMgr.Optional">(可选)</String>
-		<String id="CusEmotionMgr.EmotionMeaningInit">最多可以有8个字符</String>
-		<String id="CusEmotionMgr.EmotionShortCutInit">最多可以有8个字符</String>
-		<String id="CusEmotionMgr.ChangePic">更换图片</String>
-    <String id="Image_File_Type_Defined">图片文件 </String>
-		<String id="CusEmotionMgr.Del">删除表情</String>
-		<String id="CusEmotionMgr.OK">确定</String>
-		<String id="CusEmotionMgr.Close">关闭</String>
-		<String id="CusEmotionMgr.Cancel">取消</String>
-		<String id="CusEmotionMgr.MoreEmotion">获得更多表情</String>
-		<String id="CusEmotionMgr.Input">导入表情</String>
-		<String id="CusEmotionMgr.Output">导出表情</String>
+		<String id="CusEmotionMgr.Caption">Manage my emoticons</String>
+		<String id="CusEmotionMgr.AddEmotionBtnCaption">Add Emoticons</String>
+		<String id="CusEmotionMgr.EmotionMeaning">Expression meaning:</String>
+		<String id="CusEmotionMgr.EmotionShortCut">Shortcut Symbol:</String>
+		<String id="CusEmotionMgr.Optional">(optional)</String>
+		<String id="CusEmotionMgr.EmotionMeaningInit">Up to 8 characters</String>
+		<String id="CusEmotionMgr.EmotionShortCutInit">Up to 8 characters</String>
+		<String id="CusEmotionMgr.ChangePic">Change Image</String>
+		<String id="Image_File_Type_Defined">Image File</String>
+		<String id="CusEmotionMgr.Del">Delete expressions</String>
+		<String id="CusEmotionMgr.OK">OK</String>
+		<String id="CusEmotionMgr.Close">Close</String>
+		<String id="CusEmotionMgr.Cancel">Cancel</String>
+		<String id="CusEmotionMgr.MoreEmotion">Get more expressions</String>
+		<String id="CusEmotionMgr.Input">Import Expressions</String>
+		<String id="CusEmotionMgr.Output">Export Expressions</String>
 
-		<!--Begin 表情分组-->
+
+		<!--Begin expression grouping 表情分组-->
 		<String id="DefCusEmotions">我的表情</String>
 		<String id="TaoDoll">淘公仔</String>
 		<String id="ServiceStar">服务星</String>
@@ -756,15 +757,15 @@
 		<String id="LoginChat.DuplicatelyLoginNotify"><![CDATA[您的阿里旺旺已经登录，是否将其退出并从阿里旺旺中登录？]]></String>
 		<String id="LoginChat.KickedLoginNotify"><![CDATA[您的阿里旺旺在其他地方登录，是否重新在阿里旺旺中登录？]]></String>
 		<!--历史消息右键-->
-		<String id="chatdlg_hisbox_image_open">查看原图</String>
-		<String id="chatdlg_hisbox_image_save">另存...</String>
-		<String id="chatdlg_hisbox_image_copy">复制</String>
-		<String id="chatdlg_hisbox_image_addasemotion">添加为我的表情...</String>
-    	<String id="chatdlg_hisbox_image_emotionchange">修改表情信息...</String>
-    <String id="chatdlg_hisbox_audio2text">显示文字</String>
-    <String id="chatdlg_hisbox_copy">复制</String>
-		<String id="chatdlg_hisbox_selall">全选</String>
-		<String id="chatdlg_hisbox_reportto">举报...</String>
+		<String id="chatdlg_hisbox_image_open">View original image</String>
+		<String id="chatdlg_hisbox_image_save">Save as...</String>
+		<String id="chatdlg_hisbox_image_copy">Copy</String>
+		<String id="chatdlg_hisbox_image_addasemotion">Add as my emoticon...</String>
+		<String id="chatdlg_hisbox_image_emotionchange">Edit emoticons...</String>
+		<String id="chatdlg_hisbox_audio2text">Show text</String>
+		<String id="chatdlg_hisbox_copy">Copy</String>
+		<String id="chatdlg_hisbox_selall">Select all </String>
+		<String id="chatdlg_hisbox_reportto">Report...</String>
 
 		<String id="TemplateMsg.NotSupport">当前阿里旺旺版本不支持此消息类型</String>
 		<String id="chat_dialog_neterror">\T您当前处于断网状态，请检查网络后重新登录。</String>
@@ -778,25 +779,25 @@
 		<String id="single.sendimage.singlepicoutofsize">发送的图片超过了%dM的限制，建议您采用文件传输的方式发送。</String>
 		<String id="tribe.sendimage.singlepicoutofsize">发送的图片超过了%s的限制，无法发送。</String>
 		<String id="chat_sendmsg_pic_over_size"><![CDATA[您发送的图片大小超过了%ls的限制，无法发送。]]></String>
-		<String id="tribe.sendimage.totaloutofsize">图片太大，%dKB，超出了 %dMB 的限制!</String>
-		<String id="tribe.sendimage.totaloutofcount">您群发的图片数量或好友数量过多 !</String>
-    <String id="warning.tribename.null">群名称不能为空!</String>
+		<String id="tribe.sendimage.totaloutofsize">The image is too large, %dKB, exceeds the limit of %dMB!</String>
+		<String id="tribe.sendimage.totaloutofcount">There are too many images or friends in your group!</String>
+		<String id="warning.tribename.null">The group name cannot be empty!</String>
 		<!--toolbar-->
-		<String id="chat_dialog_toolbar_set_font">设置字体</String>
-		<String id="chat_dialog_toolbar_sel_emotion">选择表情</String>
-		<String id="chat_dialog_toolbar_capture_screen">屏幕截图</String>
-		<String id="chat_dialog_toolbar_sel_image_file">发送图片</String>
-		<String id="chat_dialog_toolbar_sel_files">发送文件</String>
-		<String id="chat_dialog_toolbar_shake">发送振屏</String>
-		<String id="chat_dialog_toolbar_tools">小工具</String>
-		<String id="chat_dialog_toolbar_msg_set">消息设置</String>
+		<String id="chat_dialog_toolbar_set_font">Set fonts</String>
+		<String id="chat_dialog_toolbar_sel_emotion">Select an emoticon</String>
+		<String id="chat_dialog_toolbar_capture_screen">Screenshot</String>
+		<String id="chat_dialog_toolbar_sel_image_file">Send image</String>
+		<String id="chat_dialog_toolbar_sel_files">Send File</String>
+		<String id="chat_dialog_toolbar_shake">Send a vibrating screen</String>
+		<String id="chat_dialog_toolbar_tools">Gadget</String>
+		<String id="chat_dialog_toolbar_msg_set">Message Settings</String>
 		<!--chatdlg_clipscreen-->
-		<String id="chatdlg_clipscreen_clipscreen">屏幕截图</String>
-		<String id="chatdlg_clipscreen_startclipscreen">截图时显示当前窗口</String>
-		<String id="chatdlg_clipscreen_hide_clipscreen">截图时隐藏当前窗口</String>
-		<String id="chatdlg_clipscreen_custom_shortcut">截图</String>
-		<String id="chatdlg_clipscreen_select_file">选择文件贴图</String>
-		<!--分段发送的文案-->
+		<String id="chatdlg_clipscreen_clipscreen">Screenshot</String>
+		<String id="chatdlg_clipscreen_startclipscreen">Show current window in screenshot</String>
+		<String id="chatdlg_clipscreen_hide_clipscreen">Hide the current window in screenshot</String>
+		<String id="chatdlg_clipscreen_custom_shortcut">Screenshot</String>
+		<String id="chatdlg_clipscreen_select_file">Select File Map</String>
+		<!--send copy of the copy 分段发送的文案-->
 		<String id="Chat.MessageTooLong.Remind">您输入的内容长度超出限制，系统将发送长度限制内的部分，其余部分保留在输入框内，确定要继续吗？</String>
 		<String id="Chat.MessageTooLong.Check">不再提醒</String>
 		<!--回复提示-->
@@ -854,18 +855,18 @@
 		<String id="ChatAuthError.255">阿里旺旺服务器正在维护中，请退出阿里旺旺，然后重新登录。给您带来的不便敬请见谅。</String>
 		<String id="ChatAuthCodeError">验证码错误，请重试</String>
 		<String id="ChatAuthDisconnect">阿里旺旺与服务器连接断开，请稍后重试</String>
-		<!--轻聊在线离线状态wording-->
-		<String id="ChatOnline">阿里旺旺</String>
-		<String id="ChatOffline">阿里旺旺未登录，点击立即登录</String>
-		<String id="PushMsgReply">您的评论有新回复，快去看看吧！</String>
-		<String id="PushMsgReminder">您关注的店铺上新了！</String>
-		<String id="PushMsgReminderType0">旺旺</String>
-		<String id="PushMsgReminderType1">资讯</String>
-		<String id="PushMsgReminderType2">订阅</String>
-		<String id="PushMsgReminderType3">店铺</String>
-		<String id="PushMsgReminderType4">我的</String>
-		<String id="PushMsgReminderType6">日历</String>
-		<String id="NoitceMsg">小提示:亲可以在【系统设置】里重新开启%s提醒哦！</String>
+		<!-- -Let chat online offline status wording轻聊在线离线状态wording-->
+		<String id="ChatOnline">Aliwangwang</String>
+		<String id="ChatOffline">Aliwangwang is not logged in, click to log in now</String>
+		<String id="PushMsgReply">Your comment has a new reply, go check it out!</String>
+		<String id="PushMsgReminder">The store you are following is new!</String>
+		<String id="PushMsgReminderType0">Wangwang</String>
+		<String id="PushMsgReminderType1">Information</String>
+		<String id="PushMsgReminderType2">Subscription</String>
+		<String id="PushMsgReminderType3">Store</String>
+		<String id="PushMsgReminderType4">My </String>
+		<String id="PushMsgReminderType6">Calendar</String>
+		<String id="NoitceMsg"> Tip: You can re-open the %s reminder in [System Settings]!</String>
 		<!--aliimx-->
 		<String id="plugin_insert_msg_format_prefix"><![CDATA[\C0x000000\T]]></String>
     <String id="aliimx.text.select_dlg">请选择已登录的阿里旺旺帐号</String>
@@ -974,87 +975,87 @@
 		<String id="FileTransEvent_FailedBeyondUserSpace">离线文件剩余空间不足，无法发送</String>
 		<String id="FileTransEvent_FailedBeyondFileTotal">离线文件数不可超过1个</String>
 		<String id="FileTransEvent_FailedAlreadyExist">该文件已经存在于服务器上，无需重复发送</String>
-		<!-- 前端页面 -->
-		<String id="fe.chat.online">在线</String>
-		<String id="fe.chat.offline">离线</String>
-		<String id="fe.chat.copy">复制</String>
-		<String id="fe.chat.close">关闭</String>
-		<String id="fe.chat.clear">清除</String>
-		<String id="fe.chat.lookup">查找</String>
-		<String id="fe.chat.report">举报</String>
-		<String id="fe.chat.agree">同意</String>
-		<String id="fe.chat.refuse">拒绝</String>
-		<String id="fe.chat.open">打开</String>
-		<String id="fe.chat.retry">重试</String>
-		<String id="fe.chat.taobao">淘宝网</String>
-		<String id="fe.chat.file_send">传送</String>
-		<String id="fe.chat.receive">接收</String>
-		<String id="fe.chat.cancel">取消</String>
-		<String id="fe.chat.warning">警告</String>
+		<!-- Front End Page 前端页面 -->
+		<String id="fe.chat.online">Online</String>
+		<String id="fe.chat.offline">Offline</String>
+		<String id="fe.chat.copy">Copy</String>
+		<String id="fe.chat.close">Close</String>
+		<String id="fe.chat.clear">Clear</String>
+		<String id="fe.chat.lookup">Search</String>
+		<String id="fe.chat.report">Report </String>
+		<String id="fe.chat.agree">Agree</String>
+		<String id="fe.chat.refuse">Reject</String>
+		<String id="fe.chat.open">Open</String>
+		<String id="fe.chat.retry">Try again</String>
+		<String id="fe.chat.taobao">Taobao </String>
+		<String id="fe.chat.file_send">Transfer</String>
+		<String id="fe.chat.receive">Receive</String>
+		<String id="fe.chat.cancel">Cancel</String>
+		<String id="fe.chat.warning">Warning</String>
 
-		<String id="fe.chat.typing"> 正在输入中……</String>
-		<String id="fe.chat.curr_state">当前状态</String>
-		<String id="fe.chat.alibaba_xiaoer">阿里巴巴集团小二</String>
-		<String id="fe.chat.alibaba_1688">阿里巴巴中文站</String>
-		<String id="fe.chat.vip_level">会员等级</String>
-		<String id="fe.chat.buyer_rank">信用</String>
-		<String id="fe.chat.buyer_rank_score">信用积分</String>
-		<String id="fe.chat.buyer_good_percent">好评率</String>
-		<String id="fe.chat.merch_score">描述相符</String>
-		<String id="fe.chat.service_score">服务态度</String>
-		<String id="fe.chat.consign_score">发货速度</String>
-		<String id="fe.chat.press_esc">按ESC取消</String>
-		<String id="fe.chat.search_contact">搜索联系人</String>
-		<String id="fe.chat.contact_list">好友列表</String>
-		<String id="fe.chat.recent_contact">最近联系人</String>
-		<String id="fe.chat.delete_contact">删除联系人</String>
-		<String id="fe.chat.cancel_top">取消置顶</String>
-		<String id="fe.chat.to_top">置顶</String>
-		<String id="fe.chat.click_see_more">点击查看更多消息</String>
-		<String id="fe.chat.above_is_his_msg">以上是历史消息</String>
-		<String id="fe.chat.url_unsafe_tip">未知链接，请谨慎打开</String>
-		<String id="fe.chat.url_open_link">打开链接</String>
-		<String id="fe.chat.how_discriminate_unsafe_link">如何识别可疑链接？</String>
-		<String id="fe.chat.has_new_msg">有新消息，点击查看</String>
-		<String id="fe.chat.click_me">点我~</String>
-		<String id="fe.chat.add_emotion">添加表情</String>
-		<String id="fe.chat.save_picture">保存图片</String>
-		<String id="fe.chat.request_add_friend">请求加您为好友</String>
-		<String id="fe.chat.postscript">附言</String>
-		<String id="fe.chat.agree_and_add">同意并添加</String>
-		<String id="fe.chat.has_agree_and_add">已同意并添加</String>
-		<String id="fe.chat.has_agreed">已同意</String>
-		<String id="fe.chat.has_refused">已拒绝</String>
-		<String id="fe.chat.add_black">加入黑名单</String>
-		<String id="fe.chat.has_add_black">已加入黑名单</String>
-		<String id="fe.chat.has_report">已举报</String>
-		<String id="fe.chat.pic_load_fail_click">图片下载失败，点击</String>
-		<String id="fe.chat.received_file">接收的文件</String>
-		<String id="fe.chat.unsafe_file_tip">存在安全风险，可能会严重威胁你的交易和财产安全，建议立即删除。</String>
-		<String id="fe.chat.delete_file">删除（建议）</String>
-		<String id="fe.chat.file_transfer">文件传输</String>
-		<String id="fe.chat.open_folder">打开文件夹</String>
-		<String id="fe.chat.send_success">发送成功</String>
-		<String id="fe.chat.file_receiving">接收中……</String>
-		<String id="fe.chat.receive_success">接收成功</String>
-		<String id="fe.chat.resend_file">重新发送</String>
-		<String id="fe.chat.save_as">另存为</String>
-		<String id="fe.chat.rereceive">重新接收</String>
-		<String id="fe.chat.file_send_fail">发送失败</String>
-		<String id="fe.chat.file_open_fail">文件打开失败</String>
-		<String id="fe.chat.file_too_big">文件过大，发送失败</String>
-		<String id="fe.chat.file_empty">文件为空，发送失败</String>
-		<String id="fe.chat.file_exist">文件已经存在</String>
-		<String id="fe.chat.file_error">文件异常，发送失败</String>
-		<String id="fe.chat.file_receive_fail">接收失败</String>
-		<String id="fe.chat.file_has_refused_file">你已拒绝接收该文件</String>
-		<String id="fe.chat.file_net_error">网络异常，发送失败</String>
-		<String id="fe.chat.file_has_in_server">文件已存在服务器，发送失败</String>
-		<String id="fe.chat.file_server_error">服务器异常，发送失败</String>
-		<String id="fe.chat.file_offline_sending">离线发送中……</String>
-		<String id="fe.chat.file_checking">安全扫描中……</String>
-		<String id="fe.chat.file_transfer_failed">传输失败</String>
-		<String id="fe.chat.file_transfer_canceled">传输取消</String>
+		<String id="fe.chat.typing"> Being entered...</String>
+		<String id="fe.chat.curr_state">current status</String>
+		<String id="fe.chat.alibaba_xiaoer">Alibaba Group Junior 2</String>
+		<String id="fe.chat.alibaba_1688">Alibaba Chinese Station</String>
+		<String id="fe.chat.vip_level">Membership Level</String>
+		<String id="fe.chat.buyer_rank">Credit</String>
+		<String id="fe.chat.buyer_rank_score">Credit Points</String>
+		<String id="fe.chat.buyer_good_percent">Reputation rate</String>
+		<String id="fe.chat.merch_score">Description matches</String>
+		<String id="fe.chat.service_score">Service Attitude</String>
+		<String id="fe.chat.consign_score">delivery speed</String>
+		<String id="fe.chat.press_esc">Press ESC to cancel</String>
+		<String id="fe.chat.search_contact">Search for a contact</String>
+		<String id="fe.chat.contact_list">Friend List</String>
+		<String id="fe.chat.recent_contact">Recent contacts</String>
+		<String id="fe.chat.delete_contact">Delete a contact</String>
+		<String id="fe.chat.cancel_top">Unpin </String>
+		<String id="fe.chat.to_top">Top </String>
+		<String id="fe.chat.click_see_more">Click to view more messages</String>
+		<String id="fe.chat.above_is_his_msg">The above is a history message</String>
+		<String id="fe.chat.url_unsafe_tip">Unknown link, please open it carefully</String>
+		<String id="fe.chat.url_open_link">Open the link</String>
+		<String id="fe.chat.how_discriminate_unsafe_link">How do I identify suspicious links?</String>
+		<String id="fe.chat.has_new_msg">New message, click to view</String>
+		<String id="fe.chat.click_me">Click me~</String>
+		<String id="fe.chat.add_emotion">Add an emoticon</String>
+		<String id="fe.chat.save_picture">Save image</String>
+		<String id="fe.chat.request_add_friend">Request to add you as a friend</String>
+		<String id="fe.chat.postscript">Postscript</String>
+		<String id="fe.chat.agree_and_add">Agree and add</String>
+		<String id="fe.chat.has_agree_and_add">Agree and add</String>
+		<String id="fe.chat.has_agreed">Agreeed</String>
+		<String id="fe.chat.has_refused">Rejected</String>
+		<String id="fe.chat.add_black">Add to Blacklist</String>
+		<String id="fe.chat.has_add_black">Blacklisted</String>
+		<String id="fe.chat.has_report">Reported</String>
+		<String id="fe.chat.pic_load_fail_click">Image download failed, click</String>
+		<String id="fe.chat.received_file">Received files</String>
+		<String id="fe.chat.unsafe_file_tip">There is a security risk that could seriously threaten your transaction and property security. It is recommended to delete it immediately.</String>
+		<String id="fe.chat.delete_file">Delete (recommended)</String>
+		<String id="fe.chat.file_transfer">File Transfer</String>
+		<String id="fe.chat.open_folder">Open folder</String>
+		<String id="fe.chat.send_success">Successfully sent</String>
+		<String id="fe.chat.file_receiving">Received...</String>
+		<String id="fe.chat.receive_success">Receive success</String>
+		<String id="fe.chat.resend_file">Resend</String>
+		<String id="fe.chat.save_as">Save as</String>
+		<String id="fe.chat.rereceive">Re-receive</String>
+		<String id="fe.chat.file_send_fail">Send failed</String>
+		<String id="fe.chat.file_open_fail">File open failed</String>
+		<String id="fe.chat.file_too_big">File too large, failed to send</String>
+		<String id="fe.chat.file_empty">File is empty, failed to send</String>
+		<String id="fe.chat.file_exist">File already exists</String>
+		<String id="fe.chat.file_error">File exception, failed to send</String>
+		<String id="fe.chat.file_receive_fail">Receive failed</String>
+		<String id="fe.chat.file_has_refused_file">You have declined to receive the file</String>
+		<String id="fe.chat.file_has_in_server">File already exists on the server, failed to send</String>
+		<String id="fe.chat.file_server_error">Server exception, failed to send</String>
+		<String id="fe.chat.file_offline_sending">Offline sending...</String>
+		<String id="fe.chat.file_checking">Security scan...</String>
+		<String id="fe.chat.file_transfer_failed">Transfer failed</String>
+		<String id="fe.chat.file_transfer_canceled">Transfer Cancel</String>
+
 
 		<!--远程协助文案-->
 		<String id="remoteassist.requestingText">正在邀请xx进行远程协助，请等待...</String>
@@ -1355,7 +1356,7 @@
 		<String id="Error_TribeName_Empty">请填写群名称</String>
 
 		<String id="Error_TribeInfo_NoSupport"><![CDATA[输入内容不支持使用“<”、“>”，请修改后重新提交!]]></String>
-		<String id="Error_TribePass_Limit">密码必须由6-20个英文字母或数字(0-9)组成，区分大小写</String>
+		<String id="Error_TribePass_Limit">Password must be 6-20 characters</String>
 
 		<String id="Error_TribeBlack_Exist"> 该用户已被移至黑名单  </String>
 		<String id="Tribemange_Tab1">群资料</String>
@@ -1437,14 +1438,9 @@
 		<String id="tribeaddblackfull">群黑名单已达上限500人，无法再添加.</String>
 
 		<String id="tribeinvatememberfull">
+			<![CDATA[用户"%s"加入的群数已经达到上限值20，无法把对方加入群]]>	</String>
 
-			<![CDATA[用户"%s"加入的群数已经达到上
-限值20，无法把对方加入群]]>
-		</String>
-
-		<String id="tribeinvatetribefull">
-			对不起，该群人数已满，无法加入!
-		</String>
+		<String id="tribeinvatetribefull">对不起，该群人数已满，无法加入!</String>
 
 		<String id="tribe_black_add">添加黑名单</String>
 		<String id="tribe_black_del">从黑名单中删除</String>
@@ -1603,7 +1599,7 @@
     <String id="search_error_contact_fuzzy_isempty">请至少输入一项条件！</String>
     <String id="search_tribe_auth_none">允许任何人加入</String>
     <String id="search_tribe_auth_id">需要验证</String>
-    <String id="search_tribe_auth_password">需要密码</String>
+    <String id="search_tribe_auth_password">Password Required</String>
     <String id="search_tribe_auth_private">禁止主动加入</String>
     <String id="search_verify_value">最多可输入10个字。</String>
     <String id="search_verify_deny">最多可输入10个字。</String>
@@ -1623,38 +1619,49 @@
     <String id="tribe.history.more.btn.tip">消息管理器(F8)</String>
 
     	<!--system setting-->
-		<String id="SystemSetting.SideBar.grouptitle.0">基本设置#0%常规%网络%升级</String>
-		<String id="SystemSetting.SideBar.grouptitle.1">聊天设置#1%常规%语音视频%消息模式%消息记录%文件记录%自动回复、快捷短语</String>
-		<!--<String id="SystemSetting.SideBar.grouptitle.2">个性设置#2%个性签名%快捷键%主界面%语言%用户体验计划</String>-->
-		<String id="SystemSetting.SideBar.grouptitle.2">个性设置#2%快捷键%语言</String>
-		<String id="SystemSetting.SideBar.grouptitle.3">安全设置#3%账号安全设置%防骚扰%验证设置%密码设置%登录历史</String>
-		<String id="SystemSetting.SideBar.grouptitle.4">订阅设置#4%弹出消息%浮出消息</String>
-		<String id="SystemSetting.SideBar.grouptitleex.0">基本设置#0%常规%网络%升级</String>
-		<String id="SystemSetting.SideBar.grouptitleex.1">个性设置#1%语言</String>
-		<String id="SystemSetting.FileTrans.Accept.0">接收所有文件</String>
-		<String id="SystemSetting.FileTrans.Accept.1">拒绝不安全文件</String>
-		<String id="SystemSetting.FileTrans.Accept.2">拒绝所有文件</String>
-		<String id="SystemSetting.IMMsg.GMsg.0">接收所有群发消息</String>
-		<String id="SystemSetting.IMMsg.GMsg.1">只接收好友的群发消息</String>
-		<String id="SystemSetting.IMMsg.GMsg.2">不接收任何群发消息</String>
-		<String id="SystemSetting.IMMsg.SaveMode.0">显示在聊天窗口外</String>
-		<String id="SystemSetting.IMMsg.SaveMode.1">显示在聊天窗口内</String>
+		<String id="SystemSetting.SideBar.grouptitle.0">Basic Settings#0% General %Network% Upgrade</String>
+		<String id="SystemSetting.SideBar.grouptitle.1">Chat Settings #1% General % Voice Video % Sounds % Message Record % File Transfer % Auto Reply, Shortcuts</String>
+		<!--<String id="SystemSetting.SideBar.grouptitle.2">Personality Settings #2% Personality Signature % Shortcut Key % Main Interface % Language % User Experience Plan</String>-->
+		<String id="SystemSetting.SideBar.grouptitle.2">Personality Settings #2% Shortcuts % Language</String>
+		<String id="SystemSetting.SideBar.grouptitle.3">Security Settings #3% Account Security Settings% Anti-Spam%Verification Settings%Password Settings%Login History</String>
+		<String id="SystemSetting.SideBar.grouptitle.4">Subscription Settings #4%Popup Message%Floating Message</String>
+		<String id="SystemSetting.SideBar.grouptitleex.0">Basic Settings #0% Regular % Network % Upgrade</String>
+		<String id="SystemSetting.SideBar.grouptitleex.1">Personality Settings #1% Language</String>
+		<String id="SystemSetting.FileTrans.Accept.0">Receive all files</String>
+		<String id="SystemSetting.FileTrans.Accept.1">Reject unsafe files</String>
+		<String id="SystemSetting.FileTrans.Accept.2">Reject all files</String>
+		<String id="SystemSetting.IMMsg.GMsg.0">Receive all group messages</String>
+		<String id="SystemSetting.IMMsg.GMsg.1">Only receive group messages from friends</String>
+		<String id="SystemSetting.IMMsg.GMsg.2">Do not receive any bulk messages</String>
+		<String id="SystemSetting.IMMsg.SaveMode.0">Show outside the chat window</String>
+		<String id="SystemSetting.IMMsg.SaveMode.1">Show in chat window</String>
 
-		<String id="systemsetting_sub_sysmsg">已退订弹出消息</String>
-		<String id="systemsetting_sub_sysmsg_head_type">消息标题</String>
-		<String id="systemsetting_sub_submsg">浮出消息设置</String>
-		<String id="systemsetting_sub_submsg_head_type">类型</String>
-		<String id="systemsetting_sub_submsg_head_floatnotify">浮出提醒</String>
-		<String id="systemsetting_sub_submsg_head_submsg">订阅</String>
-		<String id="systemsetting_sub_submsg_nosubmsg">暂时无法获取数据，建议重新打开</String>
-		<String id="systemsetting_sub_appmsg">应用消息设置</String>
-		<String id="systemsetting_sub_appmsg_head_type">应用名称</String>
-		<String id="systemsetting_chat_record_groupbox">消息记录</String>
+		<String id="systemsetting_sub_sysmsg">Unsubscribed pop-up message</String>
+		<String id="systemsetting_sub_sysmsg_head_type">Msg Title</String>
+		<String id="systemsetting_sub_submsg">Floating Message Settings</String>
+		<String id="systemsetting_sub_submsg_head_type">Type</String>
+		<String id="systemsetting_sub_submsg_head_floatnotify">Reminder</String>
+		<String id="systemsetting_sub_submsg_head_submsg">Subscription</String>
+		<String id="systemsetting_sub_submsg_nosubmsg">Data temporarily unavailable, pls reopen</String>
+		<String id="systemsetting_sub_appmsg">App Message Settings</String>
+		<String id="systemsetting_sub_appmsg_head_type">App Name</String>
+		<String id="systemsetting_chat_record_groupbox">Message Record</String>
+		<String id="systemsetting_sub_sysmsg">Unsubscribe Pop Up Message</String>
+		<String id="systemsetting_sub_sysmsg_head_type">Message Header</String>
+		<String id="systemsetting_sub_submsg">Float Message Settings</String>
+		<String id="systemsetting_sub_submsg_head_type">Type</String>
+		<String id="systemsetting_sub_submsg_head_floatnotify">Float Reminder</String>
+		<String id="systemsetting_sub_submsg_head_submsg">Subscribe</String>
+		<String id="systemsetting_sub_submsg_nosubmsg">The data can not be obtained, try again.</String>
+		<String id="systemsetting_sub_appmsg">App Message Settings</String>
+		<String id="systemsetting_sub_appmsg_head_type">App Name</String>
+		<String id="systemsetting_chat_record_groupbox">Message Record</String>
 		<String id="systemsetting_client_set_groupbox"><![CDATA[客户端设置]]></String>
-		<String id="systemsetting_local_save_checkbox">将我的消息记录保存到这台电脑上</String>
-		<String id="systemsetting_record_number_checkbox">自动在聊天窗口内显示最近消息记录</String>
-		<String id="systemsetting_record_number_textlabel">显示消息记录数</String>
-		<String id="systemsettingbtn_face_checkbbox"><![CDATA[ 消息记录中使用静态表情]]></String>
+		<String id="systemsetting_local_save_checkbox">Save message history</String>
+		<String id="systemsetting_record_number_checkbox">Automatically display recent message records in the chat window</String>
+		<String id="systemsetting_record_number_textlabel">Show message records</String>
+		<String id="systemsettingbtn_face_checkbbox">
+			<![CDATA[Use static emoticons in message records]]>	</String>
 		<String id="systemsetting_notshow_cut_checkbbox">消息管理中心不显示贴图</String>
 		<String id="systemsetting_lastmsg_display_mode_textlabel">最近消息记录显示位置</String>
 		<String id="systemsetting_ldm_type1_radiobox"><![CDATA[ 聊天窗口外]]></String>
@@ -1744,7 +1751,7 @@
 		<String id="systemsetting_server_textlabel">服　务　器:</String>
 		<String id="systemsetting_server_port_textlabel">端　　口:</String>
 		<String id="systemsetting_user_name_textlabel">用　户　名:</String>
-		<String id="systemsetting_user_password_textlabel">密　　码:</String>
+		<String id="systemsetting_user_password_textlabel">Password:</String>
 		<String id="systemsetting_user_domain_textlabel">　　　　域:</String>
 		<String id="systemsetting_otherset_groupbox"><![CDATA[其它设置]]></String>
 		<String id="systemsetting_fontselect_textlabel">线路选择:</String>
@@ -2049,24 +2056,24 @@
 		<String id="idcancel">取消</String>
 		<String id="idapply">应用</String>
 
-		<String id="SystemSetLockPassTitle">锁定密码</String>
-		<String id="SystemSetNoLockPass">锁定密码未设置，请设置锁定密码</String>
+		<String id="SystemSetLockPassTitle">Lock Password</String>
+		<String id="SystemSetNoLockPass">Set Password Lock</String>
 		<String id="SystemSetLockPassSetted">********</String>
-		<String id="SystemSetLockPassSettingSucceed">锁定密码设置成功</String>
-		<String id="SystemSetLockPassInput">密码输入:</String>
-		<String id="SystemSetLockPassNotify">请不要使用登录密码作为锁定密码</String>
-		<String id="SystemSetLockPassConfirm">密码确认:</String>
-		<String id="SystemSetLockPassConfirmNotify">请再次输入锁定密码</String>
-		<String id="SystemSetLockPassNoInputNotify">锁定密码不能为空，请再次输入</String>
-		<String id="SystemSetLockPassConfirmError">密码确认不正确，请再次输入</String>
-		<String id="SystemSetLockPassConfirmTooLong">密码超过长度限制(%d位)，请再次输入</String>
+		<String id="SystemSetLockPassSettingSucceed">Lock Password Set</String>
+		<String id="SystemSetLockPassInput">Password:</String>
+		<String id="SystemSetLockPassNotify">Do not use login password</String>
+		<String id="SystemSetLockPassConfirm">Confirm:</String>
+		<String id="SystemSetLockPassConfirmNotify">Reenter Lock Password</String>
+		<String id="SystemSetLockPassNoInputNotify">Lock password is required</String>
+		<String id="SystemSetLockPassConfirmError">Passwords do not match</String>
+		<String id="SystemSetLockPassConfirmTooLong">Password is too long</String>
 
-		<String id="SystemSetMsgSynPwdTitle">消息记录漫游查看密码</String>
-		<String id="SystemSetMsgSynPwdButton">修改查看密码</String>
+		<String id="SystemSetMsgSynPwdTitle">View Password:trans:</String>
+		<String id="SystemSetMsgSynPwdButton">Modify Password</String>
 
-		<String id="SecurityLogonRecordTitle">阿里旺旺登录历史（最近一周）</String>
-		<String id="SystemSetSecurityChangePass">修改登录密码</String>
-		<String id="SystemSetChangePassTip">为了您的帐号安全，请定期修改密码</String>
+		<String id="SecurityLogonRecordTitle">Logon History</String>
+		<String id="SystemSetSecurityChangePass">Change Now</String>
+		<String id="SystemSetChangePassTip">Change your password periodically</String>
 		<String id="SystemSetTagShow">显示</String>
 		<String id="SystemSetTabTag">标签区</String>
 		<String id="SystemSetTabQuickRunup">应用快速启动区</String>
@@ -2111,101 +2118,99 @@
 		<String id="SystemSetRubbishCancel">取消</String>
 		<String id="SystemSetSecurity">安全选项</String>
 		<String id="SystemSetSecurityRemind"><![CDATA[ 点击不确定安全性的链接时提醒我]]></String>
-		<String id="SystemSetSecurityPassport">免登录设置</String>
-		<String id="SystemSetSecurityChangePassTitle">登录密码</String>
-		<String id="SystemSetLanguage">语言</String>
-		<String id="SystemSetLanguageSelect">语言选择:(需要重启阿里旺旺)</String>
-		<String id="security.logonrecord.time">时间</String>
-    	<String id="security.logonrecord.place">地点</String>
-    	<String id="security.logonrecord.version">版本</String>
-    	<String id="security.logonrecord.downloading">登录历史下载中，请稍候...</String>
-    	<String id="security.logonrecord.nodata">您最近一周内，没有登录过阿里旺旺。</String>
-    	<String id="security.logonrecord.fail">登录历史下载失败！</String>
-    	<String id="kickoff.report">登录地址有误，我要上报</String>
-    	<String id="securitysetting_comment_title"><![CDATA[该设置仅支持淘宝用户]]></String>
+		<String id="SystemSetSecurityPassport">Login Settings</String>
+		<String id="SystemSetSecurityChangePassTitle">Set Password</String>
+		<String id="SystemSetLanguage">Language</String>
+		<String id="SystemSetLanguageSelect">Select Language (Requires Restart)</String>
+		<String id="security.logonrecord.time">Time</String>
+    	<String id="security.logonrecord.place">Location</String>
+    	<String id="security.logonrecord.version">Version</String>
+		<String id="security.logonrecord.downloading">Login history, please wait...</String>
+		<String id="security.logonrecord.nodata">You have not logged in during the last week.</String>
+		<String id="security.logonrecord.fail">Login history download failed!</String>
+    	<String id="securitysetting_comment_title"><![CDATA[Taobao Users Only]]></String>
+		<String id="xMinute">%dMinute</String>
+		<String id="xHour">%dHour</String>
+		<String id="Error_Signature_NotEmpty">The signature can't be empty.</String>
+		<String id="Error_Signature_MaxCount">The signature of the signature can currently be no more than 5.</String>
+		<String id="Error_Signature_MaxLength">The signature of the character cannot exceed 32 Chinese characters.</String>
+		<String id="Error_Signature_Exist">The signature has already existed.</String>
+		<String id="Error_Signature_UnSafe">The information you entered may contain a security threat, please re-enter!</String>
+		<String id="Error_ShortPhrae_NotEmpty">The shortcut phrase cannot be empty.</String>
+		<String id="Error_AutoReply_NotEmpty">The auto reply cannot be empty.</String>
+		<String id="Error_ShortPhrae_MaxLength">The shortcut phrase can be up to 400 Chinese characters or 800 characters.</String>
+		<String id="Error_ShortPhrae_MaxCount">Up to a maximum of 100 shortcut phrases.</String>
+		<String id="Error_ShortPhrae_Exist">The shortcut phrase already exists.</String>
+		<String id="Error_AutoReply_MaxLength">The automatic reply content can't exceed 400 Chinese characters or 800 characters.</String>
+		<String id="Error_AutoReply_MinLength">The reply content cannot be empty, please confirm!</String>
+		<String id="Error_AutoReply_MaxCount">Automatic reply cannot exceed 100 </String>
+		<String id="Error_Rubbish_MixLength">Keyword cannot be less than 2 characters</String>
+		<String id="Error_Rubbish_Existing">This keyword already exists</String>
 
-		<String id="xMinute">%d分钟</String>
-		<String id="xHour">%d小时</String>
-		<String id="Error_Signature_NotEmpty">个性签名不能为空.</String>
-		<String id="Error_Signature_MaxCount">个性签名目前最多不能超过5条.</String>
-		<String id="Error_Signature_MaxLength">个性签名不能超过32个汉字。</String>
-		<String id="Error_Signature_Exist">个性签名已存在.</String>
-		<String id="Error_Signature_UnSafe">您输入的信息可能包含安全威胁，请重新输入！</String>
-		<String id="Error_ShortPhrae_NotEmpty">快捷短语不能为空.</String>
-		<String id="Error_AutoReply_NotEmpty">自动回复不能为空。</String>
-		<String id="Error_ShortPhrae_MaxLength">快捷短语最长不能超过400个汉字或800个字符.</String>
-		<String id="Error_ShortPhrae_MaxCount">快捷短语最多不能超过100条.</String>
-		<String id="Error_ShortPhrae_Exist">快捷短语已存在.</String>
-		<String id="Error_AutoReply_MaxLength">自动回复内容最多不能超过400个汉字或800个字符.</String>
-		<String id="Error_AutoReply_MinLength">回复内容不能为空,请确认!</String>
-		<String id="Error_AutoReply_MaxCount">自动回复不能超过100条</String>
-		<String id="Error_Rubbish_MixLength">关键字不能少于2个字符</String>
-		<String id="Error_Rubbish_Existing">此关键字已存在</String>
+    <!-- Chate Window Toolbar Menu 聊天窗口工具栏菜单-->
+		<String id="chat.toolbar.contextmenu.voice">voice</String>
+		<String id="chat.toolbar.contextmenu.more">More</String>
+		<String id="chat.toolbar.contextmenu.voicechat">Start a voice chat</String>
+		<String id="chat.toolbar.contextmenu.voicemsg">Send a voice message</String>
+		<String id="chat.toolbar.contextmenu.video">Video</String>
+		<String id="chat.toolbar.contextmenu.remoteassit">Remote Assistance</String>
+		<String id="chat.toolbar.contextmenu.multichat">Multiple people chat</String>
+		<String id="chat.toolbar.contextmenu.report">Report </String>
+		<String id="chat.toolbar.contextmenu.add2black">Move to blacklist</String>
+		<String id="chat.toolbar.contextmenu.delcontact">Delete a friend</String>
+		<String id="chat.toolbar.contextmenu.clearall">Clear screen</String>
+		<String id="chatdlg_hisbox_forwardmsg">Forward</String>
+		<String id="chatdlg_hisbox_reportto">Report</String>
 
-    <!--聊天窗口工具栏菜单-->
-    <String id="chat.toolbar.contextmenu.voice">语音</String>
-    <String id="chat.toolbar.contextmenu.more">更多</String>
-    <String id="chat.toolbar.contextmenu.voicechat">开始语音聊天</String>
-    <String id="chat.toolbar.contextmenu.voicemsg">发送语音消息</String>
-    <String id="chat.toolbar.contextmenu.video">视频</String>
-    <String id="chat.toolbar.contextmenu.remoteassit">远程协助</String>
-    <String id="chat.toolbar.contextmenu.multichat">多人聊天</String>
-    <String id="chat.toolbar.contextmenu.report">举报</String>
-    <String id="chat.toolbar.contextmenu.add2black">移至黑名单</String>
-    <String id="chat.toolbar.contextmenu.delcontact">删除好友</String>
-    <String id="chat.toolbar.contextmenu.clearall">清屏</String>
-    <String id="chatdlg_hisbox_forwardmsg">转发</String>
-    <String id="chatdlg_hisbox_reportto">举报</String>
-
-    <!-- 群成员列表菜单 -->
+    <!-- Group Member List Memu 群成员列表菜单 -->
     <String id="ID_TRIBEMEMBERLIST_AT">@TA</String>
-    <String id="ID_TRIBEMEMBERLIST_SENDMESSAGE">发消息</String>
-    <String id="ID_TRIBEMEMBERLIST_SENDFILE">发送文件</String>
-    <String id="ID_TRIBEMEMBERLIST_SCANRECORD">查看TA的聊天记录</String>
-    <String id="ID_TRIBEMEMBERLIST_ADDCONTACT">加为好友</String>
-    <String id="ID_TRIBEMEMBERLIST_SETADMIN">设为管理员</String>
-    <String id="ID_TRIBEMEMBERLIST_CANCELADMIN">取消管理员</String>
-    <String id="ID_TRIBEMEMBERLIST_INVITE">邀请好友加入群</String>
-    <String id="ID_TRIBEMEMBERLIST_CARD">查看名片</String>
-    <String id="ID_TRIBEMEMBERLIST_MODINICK">修改群昵称</String>
-    <String id="ID_TRIBEMEMBERLIST_PERSONALFILE">查看个人资料</String>
-    <String id="ID_TRIBEMEMBERLIST_SHIELD">屏蔽此人在群中的发言</String>
-    <String id="ID_TRIBEMEMBERLIST_DEL">从本群中删除</String>
-    <String id="ID_TRIBEMEMBERLIST_ADDBLACK">加到本群的黑名单</String>
-    <String id="ID_TRIBEMEMBERLIST_PORTAL">举报此用户</String>
-    <String id="ID_TRIBEMEMBERLIST_DISBAND">屏蔽此用户发言</String>
-    <String id="TIP_OWNER">群主:%s(ID:%s)</String>
-    <String id="TIP_ADMIN">管理员:%s(ID:%s)</String>
-    <String id="TIP_MEMBER">%s(ID:%s)</String>
-    <String id="TIP_VISITOR">游客:%s(ID:%s)</String>
+    <String id="ID_TRIBEMEMBERLIST_SENDMESSAGE">Send a message</String>
+		<String id="ID_TRIBEMEMBERLIST_SENDFILE">Send File</String>
+		<String id="ID_TRIBEMEMBERLIST_SCANRECORD">View TA's chat history</String>
+		<String id="ID_TRIBEMEMBERLIST_ADDCONTACT">Add as a friend</String>
+		<String id="ID_TRIBEMEMBERLIST_SETADMIN">Set as administrator</String>
+		<String id="ID_TRIBEMEMBERLIST_CANCELADMIN">Cancel admin</String>
+		<String id="ID_TRIBEMEMBERLIST_INVITE">Invite friends to join the group</String>
+		<String id="ID_TRIBEMEMBERLIST_CARD">User info</String>
+		<String id="ID_TRIBEMEMBERLIST_MODINICK">Modify group nickname</String>
+		<String id="ID_TRIBEMEMBERLIST_PERSONALFILE">View Profile</String>
+		<String id="ID_TRIBEMEMBERLIST_SHIELD">Block this person’s posts in the group</String>
+		<String id="ID_TRIBEMEMBERLIST_DEL">Remove from this group</String>
+		<String id="ID_TRIBEMEMBERLIST_ADDBLACK">Add to the blacklist of this group</String>
+		<String id="ID_TRIBEMEMBERLIST_PORTAL">Report this user</String>
+		<String id="ID_TRIBEMEMBERLIST_DISBAND">Block this user to speak</String>
+		<String id="TIP_OWNER">Group owner: %s(ID:%s)</String>
+		<String id="TIP_ADMIN">Admin: %s(ID:%s)</String>
+		<String id="TIP_MEMBER">%s(ID:%s)</String>
+		<String id="TIP_VISITOR">Visitor: %s(ID:%s)</String>
 
-    <!-- 语音视频文案 -->
-    <String id="AV_Audio_DIALOG_Title">语音聊天</String>
-    <String id="AV_Video_DIALOG_Title">视频聊天</String>
-    <String id="AV_MultiVideo_DIALOG_Title">多人视频聊天</String>
-    <String id="AV_Audioing_Title">与XXX语音聊天中</String>
-    <String id="AV_Videoing_Title">与XXX视频聊天中</String>
-    <String id="AV_Audio_State">XXX向您发起语音聊天</String>
-    <String id="AV_Video_State">XXX向您发起视频聊天</String>
-    <String id="AudioVideo.TimeInfo">持续时间</String>
-    <String id="Audio.StateInfo">语音聊天邀请中...</String>
-    <String id="Audio.WangXinInfo">来自旺信， </String>
+    <!-- Voice and video copy 语音视频文案 -->
+    <String id="AV_Audio_DIALOG_Title">Voice Chat</String>
+		<String id="AV_Video_DIALOG_Title">Video Chat</String>
+		<String id="AV_MultiVideo_DIALOG_Title">Multiplayer Video Chat</String>
+		<String id="AV_Audioing_Title">In a voice chat with XXX</String>
+		<String id="AV_Videoing_Title">Chat with XXX video</String>
+		<String id="AV_Audio_State">XXX is calling you a voice chat</String>
+		<String id="AV_Video_State">XXX is starting a video chat with you</String>
+		<String id="AudioVideo.TimeInfo">Duration</String>
+		<String id="Audio.StateInfo">Voice chat invitation...</String>
+		<String id="Audio.WangXinInfo">From Wangxin, </String>
     <String id="Audio.WangXinUrl"><![CDATA[http://wangxin.taobao.com]]></String>
-    <String id="Video.StateInfo">视频聊天邀请中...</String>
-    <String id="AudioVideo.Finish">结束</String>
-    <String id="AudioVideo.Start">开始</String>
-    <String id="AudioVideo.Pause">暂停</String>
-    <String id="AudioVideo.Invite">邀请</String>
-    <String id="AudioVideo.Set">设置</String>
-    <String id="AV_Error_InitFailed">语音视频模块初始化失败！</String>
-    <String id="AV_Error_ReOpen">正在语音视频，不能发出新的邀请！</String>
-    <String id="AV_Audio_Remind_UserExit">'%s'结束了语音聊天。</String>
-    <String id="AV_Video_Remind_UserExit">'%s'结束了视频聊天。</String>
-    <String id="AudioVideo.Tooltip.Normal">常规模式</String>
-    <String id="AudioVideo.Tooltip.Switch">双方显示区域互换</String>
-    <String id="AudioVideo.Tooltip.FullScreen">全屏显示</String>
-    <String id="AudioVideo.Tooltip.RecordVolume">麦克风音量</String>
-    <String id="AudioVideo.Tooltip.PlayerVolume">音箱音量</String>
+    <String id="Video.StateInfo">Video chat invitation...</String>
+		<String id="AudioVideo.Finish">End</String>
+		<String id="AudioVideo.Start">Start</String>
+		<String id="AudioVideo.Pause">Pause</String>
+		<String id="AudioVideo.Invite">Invite</String>
+		<String id="AudioVideo.Set">Settings</String>
+		<String id="AV_Error_InitFailed"> Voice and video module initialization failed!</String>
+		<String id="AV_Error_ReOpen"> is a voice video, can't make a new invitation!</String>
+		<String id="AV_Audio_Remind_UserExit"> '%s' ends the voice chat.</String>
+		<String id="AV_Video_Remind_UserExit"> '%s' ended the video chat.</String>
+		<String id="AudioVideo.Tooltip.Normal">General mode</String>
+		<String id="AudioVideo.Tooltip.Switch">Showing regional interchanges on both sides</String>
+		<String id="AudioVideo.Tooltip.FullScreen">Full Screen Display</String>
+		<String id="AudioVideo.Tooltip.RecordVolume">Microphone Volume</String>
+		<String id="AudioVideo.Tooltip.PlayerVolume">Speaker Volume</String>
 
     <String id="AudioVideo_SystemTip">系统提示</String>
     <String id="AudioVideo_Audio_Tip_OldVersion">对方使用旧版本，将启用旧版本语音进行聊天。</String>
@@ -2501,7 +2506,7 @@
 		<String id="MainMenu.Lock">Lock</String>
 		<String id="MainMenu.FeedBack">Feedback</String>
 		<String id="MainMenu.Update">Software Upgrade</String>
-		<String id="MainMenu.Changepw">Change Password</String>
+		<String id="MainMenu.Changepw">Change</String>
 		<String id="MainMenu.Changeuser">Switch Account</String>
 		<String id="MainMenu.Quit">Exit</String>
 		<String id="MainMenu.Sendto">Specify Send</String>
@@ -3076,12 +3081,8 @@
     <!--快速发送-->
     <String id ="quicklysend.caption">快速发送</String>
     <String id ="quicklysend.caption.format">快速发送 - %s</String>
-    <String id ="quicklysend.help">
-      <![CDATA[输入昵称或群+消息，Enter快速发送
-输入昵称或群，Enter打开聊天窗口
-输入昵称或群+消息，Ctrl+Enter发送并打开聊天窗口
-]]>
-    </String>
+    <String id ="quicklysend.help"><![CDATA[输入昵称或群+消息，Enter快速发送
+输入昵称或群，Enter打开聊天窗口输入昵称或群+消息，Ctrl+Enter发送并打开聊天窗口]]></String>
     <String id ="quicklysend.edit.caption.default"><![CDATA[输入格式：昵称或群+消息]]></String>
     <String	id ="quicklysend.search.result.1">没有找到好友</String>
     <String	id ="quicklysend.search.result.2">没有找到好友；发送消息，请先输入空格</String>
@@ -3123,8 +3124,7 @@
     <String	id="multichat.item.quit">退出</String>
 	<String id="multichat.quit.title">退出讨论组</String>
     <String id="multichat.quit.tip">
-      <![CDATA[您确定要退出讨论组吗？退出后将不再收到该组的任何信息，过往消息仍然可以在消息中心查看。]]>
-    </String>
+      <![CDATA[您确定要退出讨论组吗？退出后将不再收到该组的任何信息，过往消息仍然可以在消息中心查看。]]>    </String>
     <String id="multi.MSGTYPE_IM_NOTIFY_TRIBEMSG_JOINTRIBE"><![CDATA[欢迎新成员"%s"加入讨论组。]]></String>
 
     <String id="multi.MSGTYPE_IM_NOTIFY_TRIBEMSG_QUITTRIBE"><![CDATA["%s"退出了讨论组]]></String>
@@ -3197,11 +3197,11 @@
 	<String id="tribe.enable.intro">群介绍：</String>
 	<String id="tribe.enable.intro.tip">请输入50个字内的群简介</String>
 	<String id="tribe.enable.intro.warning">群介绍不能超过50个字！</String>
-	<String id="tribe.enable.password.tip">请输入6-20个英文或数字</String>
+	<String id="tribe.enable.password.tip">Length 6-20 characters</String>
 	<String id="tribe.enable.check">*身份验证：</String>
 	<String id="tribe.enable.check.allow.all">允许任何人加入该群</String>
 	<String id="tribe.enable.check.need.check">需要身份验证才能加入该群</String>
-	<String id="tribe.enable.check.need.password">需要密码才能加入该群</String>
+	<String id="tribe.enable.check.need.password">Group Password Required</String>
 	<String id="tribe.enable.check.refuse.all">不允许任何人主动加入该群</String>
 	<String id="tribe.enable.submit">提  交</String>
 
