@@ -117,86 +117,86 @@
 		<String id="LoginError.bekicked"><![CDATA[Login Again]]></String>
 		<String id="LoginError.msg_NewAliIM">Please update your version of Ali WangWang!</String>
 		<String id="LoginError.reloginnoti">%d秒后自动重登录</String>
-		<String id="LoginError.msg_bekicked">您的帐号在其他地方登录，您被迫退出，如果这不是您本人的操作，请注意帐号安全！</String>
+		<String id="LoginError.msg_bekicked">您的帐号在其他地方登录，您被迫退出，如果这不是您本人的操作，请注意帐号Security！</String>
 		<String id="LoginError.msg_bekickedforce">阿里旺旺系统通知您已被迫下线。</String>
 
-		<!--登录验证码界面-->
-		<String id="SecurityCode.Title">安全验证</String>
-		<String id="SecurityCode.Tip">为确保您帐号的安全，在下一步操作前请先输入以下验证字符</String>
-		<String id="SecurityCode.EditTip">输入验证码：</String>
-		<String id="SecurityCode.EditNoCase">不区分大小写</String>
-		<String id="SecurityCode.Link">换一张</String>
-		<String id="SecurityCode.Sending">服务器正在处理您的验证请求，请不要关闭验证窗口</String>
-		<String id="SecurityCode.Error">输入有误，请重新输入</String>
-		<String id="SecurityCode.Empty">输入为空，请重新输入</String>
-		<String id="SecurityCode.Quit">取消验证码，您之前所发的消息或请求将无法成功发送给对方，您确定要取消?</String>
-		<String id="SecurityCode.Wait">服务器正在处理您的验证请求，请稍候...</String>
-		<String id="SecurityCode.Login.DlgTitle">阿里旺旺 - 登录验证</String>
-		<String id="SecurityCode.Login.Reson">登录地点变更或者账号、网络环境存在安全问题时需要进行安全验证</String>
+		<!-- Login verification code interface 登录验证码界面-->
+		<String id="SecurityCode.Title">Safety Verification</String>
+		<String id="SecurityCode.Tip">To ensure the security of your account, please enter the verification code before proceeding</String>
+		<String id="SecurityCode.EditTip">Enter the verification code:</String>
+		<String id="SecurityCode.EditNoCase">not case sensitive</String>
+		<String id="SecurityCode.Link">Link</String>
+		<String id="SecurityCode.Sending">The server is processing your verification request, please do not close the verification window</String>
+		<String id="SecurityCode.Error">Input incorrect, try again</String>
+		<String id="SecurityCode.Empty">Input empty, try again</String>
+		<String id="SecurityCode.Quit">Cancel the verification code. Your previous message or request will not be successfully sent to the other party. Are you sure you want to cancel?</String>
+		<String id="SecurityCode.Wait">The server is processing your verification request, please wait...</String>
+		<String id="SecurityCode.Login.DlgTitle">Aliwangwang - Login Verification</String>
+		<String id="SecurityCode.Login.Reson">Safety verification is required when the login location is changed or the account and network environment have security problems</String>
 
-		<!--安全验证窗口-->
-		<String id ="SecurityLogin.DialogTitle">安全验证</String>
-		<String id ="SecurityLogin.Loading">数据加载中，请稍候。</String>
-		<String id ="SecurityLogin.Error1">WebKit控件加载失败，无法打开安全验证页面，登录失败！</String>
-		<String id ="SecurityLogin.Error2">请尝试修复WebKit控件。</String>
-		<String id ="SecurityLogin.AuthTypeSelectTitle">请选择验证方式：</String>
-		<String id ="SecurityLogin.AuthTypePhone">手机短信</String>
-		<String id ="SecurityLogin.AuthTypeDcode">阿里钱盾一键验证(推荐)</String>
-		<String id ="SecurityLogin.AuthTypeMatrix">密保卡</String>
-		<String id ="SecurityLogin.AuthTypeOTP">宝令</String>
-		<String id ="SecurityLogin.MatrixLocateTip">密保卡坐标：</String>
-		<String id ="SecurityLogin.MatrixInputTip">坐标对应数字：</String>
-		<String id ="SecurityLogin.MatrixDataError">密保卡数据获取失败</String>
-		<String id ="SecurityLogin.PhoneSendCode">发送验证码</String>
-		<String id ="SecurityLogin.PhoneCodeReSend">重新发送</String>
-		<String id ="SecurityLogin.PhoneCodeReSendWaitTip">%d秒后可重新发送</String>
-		<String id ="SecurityLogin.PhoneCodeInputTip">验证码：</String>
-		<String id ="SecurityLogin.NeedSendPhoneCode">请先发送验证码！</String>
-		<String id ="SecurityLogin.CodeEmpty">请输入验证码！</String>
-		<String id ="SecurityLogin.CodeLengthErr">验证码错误，请输入6位有效验证码！</String>
-		<String id ="SecurityLogin.PhoneCodeSended">验证码已成功发送，请查收！</String>
-		<String id ="SecurityLogin.PhoneCodeFailSend">验证码发送失败，请重新再试！</String>
-		<String id ="SecurityLogin.BeginAuth">确定</String>
-		<String id ="SecurityLogin.LoadClientUIError">系统错误，请关闭后重试。</String>
-		<String id ="SecurityLogin.LocalLogicError">系统错误，请关闭后重试。</String>
-		<String id ="SecurityLogin.NoSupportedAuthTypeError">没有可用的验证方式，您可以：</String>
-		<String id ="SecurityLogin.NoSupportedAuthTypeError.eservicechild">没有可用的验证方式，您可以联系主账号为您绑定手机进行验证。</String>
-		<String id ="SecurityLogin.NoSupportedAuthType.bindphone">1、点此绑定手机</String>
-		<String id ="SecurityLogin.NoSupportedAuthType.callhelp">2、点此提交客服申请单</String>
+		<!--Security verification window 验证窗口-->
+		<String id ="SecurityLogin.DialogTitle">Security Verification</String>
+		<String id ="SecurityLogin.Loading">Please wait, loading . . .</String>
+		<String id ="SecurityLogin.Error1">WebKit control failed to load, the verification page could not be opened, and the login failed!</String>
+		<String id ="SecurityLogin.Error2">Please try to fix the WebKit control.</String>
+		<String id ="SecurityLogin.AuthTypeSelectTitle">Method:</String>
+		<String id ="SecurityLogin.AuthTypePhone">Mobile SMS</String>
+		<String id ="SecurityLogin.AuthTypeDcode">Alibaba Shield One-Click Verification (Recommended)</String>
+		<String id ="SecurityLogin.AuthTypeMatrix">secret card</String>
+		<String id ="SecurityLogin.AuthTypeOTP">OTP auth type</String>
+		<String id ="SecurityLogin.MatrixLocateTip">Security Card Coordinates:</String>
+		<String id ="SecurityLogin.MatrixInputTip">Coordinates corresponding to numbers:</String>
+		<String id ="SecurityLogin.MatrixDataError">secure card data acquisition failed</String>
+		<String id ="SecurityLogin.PhoneSendCode">Send code</String>
+		<String id ="SecurityLogin.PhoneCodeReSend">Resend</String>
+		<String id ="SecurityLogin.PhoneCodeReSendWaitTip">Resend after %d seconds</String>
+		<String id ="SecurityLogin.PhoneCodeInputTip">Verification Code:</String>
+		<String id ="SecurityLogin.NeedSendPhoneCode">Please send a verification code first!</String>
+		<String id ="SecurityLogin.CodeEmpty">Please enter the verification code!</String>
+		<String id ="SecurityLogin.CodeLengthErr">Verification code error, please enter 6 valid verification code!</String>
+		<String id ="SecurityLogin.PhoneCodeSended">Verification code has been successfully sent, please check!</String>
+		<String id ="SecurityLogin.PhoneCodeFailSend">The verification code failed to send, please try again!</String>
+		<String id ="SecurityLogin.BeginAuth">OK</String>
+		<String id ="SecurityLogin.LoadClientUIError">System error, please close and try again.</String>
+		<String id ="SecurityLogin.LocalLogicError">System error, please close and try again.</String>
+		<String id ="SecurityLogin.NoSupportedAuthTypeError">There is no authentication method available, you can:</String>
+		<String id ="SecurityLogin.NoSupportedAuthTypeError.eservicechild">There is no authentication method available, you can contact the main account to authenticate your mobile phone.</String>
+		<String id ="SecurityLogin.NoSupportedAuthType.bindphone">1. Click here to bind the phone</String>
+		<String id ="SecurityLogin.NoSupportedAuthType.callhelp">2. Click here to submit customer service request form</String>
 
-		<String id ="SecurityLogin.UnExpectedError">系统错误，请关闭后重试。</String>
-		<String id ="SecurityLogin.ServerTimeout">系统错误，请关闭后重试。</String>
-		<String id ="SecurityLogin.ServerTimeoutFinal">系统错误，请关闭后重试。</String>
-		<String id ="SecurityLogin.VerifyCodeFailedDefault">验证失败，请稍后重试。</String>
-		<String id ="SecurityLogin.SwitchToIEAuth">切换到网页认证</String>
-		<String id ="SecurityLogin.SwitchToIEAuthError">控件加载失败，无法使用网页进行安全验证！</String>
-		<String id ="SecurityLogin.InstallDigitalTip">摆脱繁琐短信验证，开启</String>
-		<String id ="SecurityLogin.InstallDigitalBtnText">阿里钱盾</String>
-		<String id ="SecurityLogin.ChangePhoneBtnText">更换手机</String>
-		<String id ="SecurityLogin.Verifying">验证中，请稍候...</String>
-		<String id ="SecurityLogin.WaittingSeverData">正在获取数据...</String>
-		<String id ="SecurityLogin.CheckReject">验证失败，请重试</String>
-		<String id ="SecurityLogin.CheckTimeout">验证超时，请重试</String>
-		<String id ="SecurityLogin.CheckTip">验证消息已发送到你的手机</String>
-		<String id ="SecurityLogin.CheckTip1">请打开阿里钱盾对消息进行确认</String>
+		<String id ="SecurityLogin.UnExpectedError">System error, please close and try again.</String>
+		<String id ="SecurityLogin.ServerTimeout">System error, please close and try again.</String>
+		<String id ="SecurityLogin.ServerTimeoutFinal">System error, please close and try again.</String>
+		<String id ="SecurityLogin.VerifyCodeFailedDefault">Verification failed. Please try again later.</String>
+		<String id ="SecurityLogin.SwitchToIEAuth">Switch to webpage authentication</String>
+		<String id ="SecurityLogin.SwitchToIEAuthError">Control failed to load, can't use webpage for security verification!</String>
+		<String id ="SecurityLogin.InstallDigitalTip">Get rid of tedious SMS</String>
+		<String id ="SecurityLogin.InstallDigitalBtnText">Money Shield</String>
+		<String id ="SecurityLogin.ChangePhoneBtnText">Change Phone</String>
+		<String id ="SecurityLogin.Verifying">Verification, please wait...</String>
+		<String id ="SecurityLogin.WaittingSeverData">Getting data...</String>
+		<String id ="SecurityLogin.CheckReject">Verification failed, please try again</String>
+		<String id ="SecurityLogin.CheckTimeout">Verification timeout, please try again</String>
+		<String id ="SecurityLogin.CheckTip">Verify the message has been sent to your phone</String>
+		<String id ="SecurityLogin.CheckTip1">Please open Ali Qiandun to confirm the message</String>
 
-		<!--联系人相关-->
-		<String id="cucm.toolongsignature">签名的长度超出限制或者您输入了太多的特殊字符!</String>
-		<String id="Error_Signature_UnSafe">您输入的信息可能包含安全威胁，请重新输入！</String>
+		<!--Contact Related 联系人相关-->
+			<String id="cucm.toolongsignature">Signature is too long or or you have used too many special characters!</String>
+		<String id="Error_Signature_UnSafe">The information you entered may contain a security threat, please re-enter!</String>
 
 		<!--deleteselfinfodlg-->
-		<String id="deleteselfdlg_windowtext">删除账号</String>
-		<String id="deleteselfdlg_deletename">从列表中删除此账号</String>
-		<String id="deleteselfdlg_deleteall">删除此账号的所有记录文件</String>
-		<String id="deleteselfdlg_deleteall_more">包括消息记录等，请谨慎操作</String>
+		<String id="deleteselfdlg_windowtext">Delete account</String>
+		<String id="deleteselfdlg_deletename">Remove this account from the list</String>
+		<String id="deleteselfdlg_deleteall">Delete all log files for this account</String>
+		<String id="deleteselfdlg_deleteall_more">Includes message records, etc. Please be cautious</String>
 
-		<String id="ReloginWnd.Title">与服务器连接中断</String>
-		<String id="ReloginWnd.Remind">与服务器连接中断，阿里旺旺在N秒后重新尝试建立连接</String>
-		<String id="ReloginWnd.Logining">正在重新尝试建立连接</String>
-		<String id="ReloginWnd.Login">立即登录</String>
-		<String id="SubMsgDegrade">抱歉，为了更好的使用体验，阿里旺旺降级了提醒通知功能。请到消息管理器查看更多信息！</String>
+		<String id="ReloginWnd.Title">Interrupted connection to server</String>
+		<String id="ReloginWnd.Remind">The connection to the server is broken, Ali Wangwang tries to establish a connection after N seconds</String>
+		<String id="ReloginWnd.Logining">Retrying to establish a connection</String>
+		<String id="ReloginWnd.Login">Sign in now</String>
+		<String id="SubMsgDegrade">Sorry, for a better experience, Ali Wangwang downgraded the reminder notification feature.Please go to the Message Manager for more information!</String>
 
-		<!--TBarWidgetFrame Widget面板
+		<!--TBarWidgetFrame Widget 面板 -->
 		<String id ="tbarwidget.menu.setting">设置</String>
 		<String id ="tbarwidget.menu.hide">隐藏</String>
 		<String id ="tbarwidget.tip.homepage">全部</String>
@@ -204,27 +204,27 @@
 
 		<String id ="tbarwidget.tip.shop">店铺</String>
 		<String id ="tbarwidget.tip.commonlink">常用链接</String>-->
-    <String id ="tbarwidget.tip.notify">提醒</String>
+    <String id ="tbarwidget.tip.notify">Reminder</String>
 		<!--阿里旺旺形象窗口-->
-		<String id ="petwnd.menu.quicklink">快速链接</String>
-		<String id ="petwnd.menu.systemsetting">系统设置</String>
-		<String id ="petwnd.menu.hide">隐藏</String>
-		<String id ="petwnd.menu.logout">切换用户</String>
-		<String id ="petwnd.menu.exit">退出阿里旺旺</String>
+		<String id ="petwnd.menu.quicklink">Quick Links</String>
+		<String id ="petwnd.menu.systemsetting">System Settings</String>
+		<String id ="petwnd.menu.hide">Hide</String>
+		<String id ="petwnd.menu.logout">Switch User</String>
+		<String id ="petwnd.menu.exit">Exit Ali Wangwang</String>
 
-		<String id ="petwnd.menu.sub.link.taobao">淘宝</String>
-		<String id ="petwnd.menu.sub.link.tmall">天猫</String>
-		<String id ="petwnd.menu.sub.link.ju">聚划算</String>
-		<String id ="petwnd.menu.sub.link.alipay">支付宝</String>
-		<String id ="petwnd.menu.sub.link.yitao">一淘</String>
-		<String id ="petwnd.menu.sub.link.alitrip">阿里旅行</String>
+		<String id ="petwnd.menu.sub.link.taobao">Taobao</String>
+		<String id ="petwnd.menu.sub.link.tmall">Tmall</String>
+		<String id ="petwnd.menu.sub.link.ju">Positionable </String>
+		<String id ="petwnd.menu.sub.link.alipay"> Alipay</String>
+		<String id ="petwnd.menu.sub.link.yitao">One Amoy</String>
+		<String id ="petwnd.menu.sub.link.alitrip">Ali Travel</String>
 
-		<String id ="pet.exitconfirmdlg.text1">主人，可以不要退出亲小淘么～</String>
-		<String id ="pet.exitconfirmdlg.text2">我可以安静的呆在角落里</String>
-		<String id ="pet.exitconfirmdlg.dontnotify">不再提醒</String>
-		<String id ="pet.sidetip.text">主人，我在这里哟，记得来看我～</String>
+		<String id ="pet.exitconfirmdlg.text1">Sir, You can not quit the pro-Xiao Tao~</String>
+		<String id ="pet.exitconfirmdlg.text2">Minimize to task bar</String>
+		<String id ="pet.exitconfirmdlg.dontnotify">No more reminders</String>
+		<String id ="pet.sidetip.text">Sir, I am here, remember to come see me~</String>
 
-		<String id ="shop.addshop.title">添加店铺</String>
+		<String id ="shop.addshop.title">Add Store</String>
 
 		<String id ="systemsetting">System Settings</String>
 		<String id ="systemsetting.general">Login</String>
@@ -295,58 +295,58 @@
 		<String id="CloseConfirm.ExitUClientTip">Confirm Exit!</String>
         <String id="CloseConfirm.Locked">Locked, Are you Sure you want to Quit?</String>
 
-		<!--Tray 系统托盘-->
-		<String id ="tray.menu.syssetting">系统设置</String>
-		<String id ="tray.menu.feedback">反馈</String>
-		<String id ="tray.menu.about">关于</String>
-		<String id ="tray.menu.openmainframe">打开主界面</String>
-        <String id ="tray.menu.lock">锁定</String>
-        <String id ="tray.menu.unlock">解锁  </String>
-		<String id ="tray.menu.closewidget">隐藏</String>
-		<String id ="tray.menu.opensound">打开声音</String>
-		<String id ="tray.menu.closesound">关闭声音</String>
-		<String id ="tray.menu.logout">切换帐号</String>
-		<String id ="tray.menu.exit">退出</String>
-        <String id="CloseConfirm.ExitLocked">阿里旺旺处于锁定状态，可能有消息待处理，您确定要退出吗？</String>
-		<String id="ID_MAINMENU_MESSAGE_PROMPT">消息提醒</String>
-		<String id="ID_MAINMENU_AUTO_REPLY">自动回复</String>
-		<String id="ID_MITEM_AUTO_OPEN_CHAT">来消息时弹出聊天窗口</String>
-		<String id="ID_MITEM_NO_OPEN_CHAT">来消息时只在右下角闪动</String>
-		<String id="ID_MITEM_NO_OPEN_STRANGER_CHAT">来未交流过的陌生人消息只在右下角闪动</String>
-		<String id="ID_MITEM_NO_AUTO_REPLY">不使用自动回复</String>
-		<String id="ID_MITEM_AUTO_REPLY_LEAVE">不在电脑旁时启用自动回复</String>
-		<String id="ID_MITEM_AUTO_REPLY_ALLSTATUS">立即启用自动回复（隐身时无效）</String>
-		<String id="ID_MITEM_AUTO_REPLY_SET">设置自动回复内容...</String>
-		<String id ="tray.tip.alertOpen">动态提醒：开启</String>
-		<String id ="tray.tip.alertClose">动态提醒：关闭</String>
-    	<String id ="tray.msgcoming.ignoreall">忽略全部</String>
-		<String id ="tray.msgcoming.openall">查看全部</String>
-    	<String id ="tray.msgcoming.openim.tips">打开单聊</String>
-		<String id ="tray.msgcoming.opentm.tips">打开群聊</String>
-    	<String id="tray.logintip.title">阿里旺旺登录失败</String>
-    	<String id="tray.logintip.err.remind">阿里旺旺聊天与服务器连接失败，请尝试</String>
-    	<String id="tray.logintip.err.login">重新登录阿里旺旺</String>
-    	<String id="tray.logintip.fail.remind">阿里旺旺聊天与服务器连接失败，需要退出并重新登录阿里旺旺</String>
-		<String id="tray.msgcoming.dialogtitle.tips">打开主界面</String>
+		<!--System Tray 系统托盘-->
+		<String id ="tray.menu.syssetting">System Settings</String>
+		<String id ="tray.menu.feedback">Feedback</String>
+		<String id ="tray.menu.about">About</String>
+		<String id ="tray.menu.openmainframe">Open main interface</String>
+		<String id ="tray.menu.lock">Lock App</String>
+		<String id ="tray.menu.unlock">Unlock </String>
+		<String id ="tray.menu.closewidget">Hide</String>
+		<String id ="tray.menu.opensound">Turn on sound</String>
+		<String id ="tray.menu.closesound"> Turn off sound</String>
+		<String id ="tray.menu.logout">Switch account</String>
+		<String id ="tray.menu.exit">Exit</String>
+		<String id="CloseConfirm.ExitLocked">Aliwangwang is locked, there may be news pending, are you sure you want to quit?</String>
+		<String id="ID_MAINMENU_MESSAGE_PROMPT">On new message</String>
+		<String id="ID_MAINMENU_AUTO_REPLY">Automatic reply</String>
+		<String id="ID_MITEM_AUTO_OPEN_CHAT">Pops up the window</String>
+		<String id="ID_MITEM_NO_OPEN_CHAT">Notify in tray icon</String>
+		<String id="ID_MITEM_NO_OPEN_STRANGER_CHAT">Only tray for unfamiliar</String>
+		<String id="ID_MITEM_NO_AUTO_REPLY">Do not use automatic reply</String>
+		<String id="ID_MITEM_AUTO_REPLY_LEAVE">When AFK</String>
+		<String id="ID_MITEM_AUTO_REPLY_ALLSTATUS">Immediately (not available in incognito)</String>
+		<String id="ID_MITEM_AUTO_REPLY_SET">Set up reply content</String>
+		<String id ="tray.tip.alertOpen">Dynamic Reminder: Open</String>
+		<String id ="tray.tip.alertClose">Dynamic Reminder: Close</String>
+		<String id ="tray.msgcoming.ignoreall">Ignore all </String>
+		<String id ="tray.msgcoming.openall">View all </String>
+		<String id ="tray.msgcoming.openim.tips">Open a single chat</String>
+		<String id ="tray.msgcoming.opentm.tips">Open group chat</String>
+		<String id="tray.logintip.title">Aliwangwang failed to log in</String>
+		<String id="tray.logintip.err.remind">Aliwangwang chat failed to connect to the server, please try</String>
+		<String id="tray.logintip.err.login">Re-login to Ali Wangwang</String>
+		<String id="tray.logintip.fail.remind">Aliwangwang chat failed to connect to the server, need to quit and log in again to Ali Wangwang</String>
+		<String id="tray.msgcoming.dialogtitle.tips">Open the main interface</String>
 
 		<!--Feedback 反馈页面-->
-		<String id ="feedback.feedback">我要反馈</String>
+		<String id ="feedback.feedback">I want feedback</String>
 
 		<!--About 关于窗口-->
-		<String id ="about.about">关于 阿里旺旺</String>
-		<String id ="about.version">版本:</String>
-		<String id ="about.term">©Alibaba Group 阿里巴巴集团官方出品</String>
-		<String id ="about.description">阿里旺旺专为淘宝用户服务，为消费者量身打造的轻便，快捷的网购入口</String>
-		<String id ="about.upgradebtn">下载新版本</String>
-		<String id ="about.checkbtn">检查新版本</String>
-		<String id ="about.upgradetip">已经是最新版本</String>
-		<String id ="about.lookup">查看</String>
-		<String id ="about.protocol">阿里巴巴阿里旺旺软件许可协议</String>
-		<String id ="about.retry">重试</String>
-    <String id ="about.copyright">版权所有©: </String>
-    <String id ="about.date">2007 - 2018 阿里巴巴（中国）有限公司</String>
-    <String id ="about.ok">确定</String>
-    <String id="HelpAbout.Version.Format">版本: 阿里旺旺(%s)</String>
+		<String id ="about.about">About Ali Wangwang</String>
+		<String id ="about.version">Version:</String>
+		<String id ="about.term">©Alibaba Group Officially produced by Alibaba Group</String>
+		<String id ="about.description">Aliwangwang is dedicated to Taobao users, a lightweight and fast online shopping portal tailored for consumers</String>
+		<String id ="about.upgradebtn">Download new version</String>
+		<String id ="about.checkbtn">Check for new version</String>
+		<String id ="about.upgradetip">Already the latest version</String>
+		<String id ="about.lookup">View</String>
+		<String id ="about.protocol">Alibaba Ali Wangwang Software License Agreement</String>
+		<String id ="about.retry">Try again</String>
+		<String id ="about.copyright">Copyright ©: </String>
+		<String id ="about.date">2007 - 2018 Alibaba (China) Co., Ltd.</String>
+		<String id ="about.ok">OK</String>
+		<String id="HelpAbout.Version.Format">Version: Ali Wangwang (%s)</String>
 
 		<!--DetailPage -->
 		<String id ="detail.title">My AliWangWang</String>
@@ -389,7 +389,7 @@
 		<String id="UpdateWnd.Update.MoreApp.Title">Aliwangwang upgrade</String>
 		<String id="UpdateWnd.Update.MoreApp">There are multiple Aliwangwang processes running under this directory. Manually exit Ali Wangwang and complete the upgrade!</String>
 
-		<!--Ugrade Reminder - 版本关闭提醒-->
+		<!--Ugrade Reminder - 版本关闭Reminder-->
 		<String id="UpdateTipsTitle">Upgrade</String>
 		<String id="UpdateTipsOldText"> Dear user, the AliWangWang version you are using is too old, please upgrade to the latest version</String>
 		<String id="UpdateTipsOldUpdateBtn">Update now</String>
@@ -483,7 +483,7 @@
 		<String id="contactlist.addcontactverifymsg">对方介绍: </String>
 		<String id="contactlist.addcontactsendverifymsg">我向$1发送验证信息$2!</String>
 		<String id="contactlist.addcontacterror_text">添加失败!</String>
-		<String id="contactlist.displaynamelength_error">显示名称最多只能输入16个汉字（或32个英文数字）</String>
+		<String id="contactlist.displaynamelength_error">显示名称最多只能Input16个汉字（或32个英文数字）</String>
 		<String id="contactlist.namecardtile">个人名片</String>
 		<String id="contactlist.addcontactaddedSelfRefuse_text">您拒绝将$1添加为好友!</String>
 		<String id="contactlist.addcontactaddedSelfAgree_text">$1已经将您添加为好友!</String>
@@ -503,90 +503,92 @@
 		<String	id="view.userinfo">查看名片</String>
 		<String	id="view.add_contact_setting">添加验证设置</String>
 
-		<String id="AddedMsgMgrDlg.Caption">添加好友管理器</String>
-		<String id="AddedMsgMgrDlg.add_request">加为好友请求</String>
-		<String id="AddedMsgMgrDlg.delall">全部删除</String>
-		<String id="AddedMsgMgrDlg.addyou">想添加您（{{self}}）为好友</String>
-		<String id="AddedMsgMgrDlg.checkinfo">验证信息：</String>
-		<String id="AddedMsgMgrDlg.agreeandadd">加对方为好友</String>
-		<String id="AddedMsgMgrDlg.agree">允许添加</String>
-		<String id="AddedMsgMgrDlg.refuse">拒绝</String>
-		<String id="AddedMsgMgrDlg.refuseandblack">加入黑名单</String>
-		<String id="AddedMsgMgrDlg.inform">举报</String>
-		<String id="AddedMsgMgrDlg.tribeinform">举报</String>
-		<String id="AddedMsgMgrDlg.report">你确定要举报该用户吗？</String>
-		<String id="AddedMsgMgrDlg.hasadded">已经将您（{{self}}）添加为好友</String>
-		<String id="AddedMsgMgrDlg.addfriend">加为好友</String>
-		<String id="AddedMsgMgrDlg.black">加入黑名单</String>
-		<String id="AddedMsgMgrDlg.notadd">不加为好友</String>
-		<String id="AddedMsgMgrDlg.jointriberequest">想加入您的群</String>
-		<String id="AddedMsgMgrDlg.allowjoin">允许添加</String>
-		<String id="AddedMsgMgrDlg.refusejoin">拒绝</String>
-		<String id="AddedMsgMgrDlg.refusejoinandblack">加入黑名单</String>
-		<String id="AddedMsgMgrDlg.verify">验证信息：</String>
-		<String id="AddedMsgMgrDlg.isdelall">确定要删除这些添加请求吗？</String>
+		<String id="AddedMsgMgrDlg.Caption">Add Friend Manager</String>
+		<String id="AddedMsgMgrDlg.add_request">Add as a friend request</String>
+		<String id="AddedMsgMgrDlg.delall">Delete all</String>
+		<String id="AddedMsgMgrDlg.addyou">Add you ({{self}}) as a friend?</String>
+		<String id="AddedMsgMgrDlg.checkinfo">Verification Information:</String>
+		<String id="AddedMsgMgrDlg.agreeandadd">Add each other as a friend</String>
+		<String id="AddedMsgMgrDlg.agree">Allow to add</String>
+		<String id="AddedMsgMgrDlg.refuse">Reject</String>
+		<String id="AddedMsgMgrDlg.refuseandblack">Add to Blacklist</String>
+		<String id="AddedMsgMgrDlg.inform">Report</String>
+		<String id="AddedMsgMgrDlg.tribeinform">Report</String>
+		<String id="AddedMsgMgrDlg.report">Are you sure you want to report this user?</String>
+		<String id="AddedMsgMgrDlg.hasadded">You have already added ({{self}}) as a friend</String>
+		<String id="AddedMsgMgrDlg.addfriend">Add as a friend</String>
+		<String id="AddedMsgMgrDlg.black">Add to Blacklist</String>
+		<String id="AddedMsgMgrDlg.notadd">Not added as a friend</String>
+		<String id="AddedMsgMgrDlg.jointriberequest">Want to join your group</String>
+		<String id="AddedMsgMgrDlg.allowjoin">Allow to add</String>
+		<String id="AddedMsgMgrDlg.refusejoin">Reject</String>
+		<String id="AddedMsgMgrDlg.refusejoinandblack">Add to Blacklist</String>
+		<String id="AddedMsgMgrDlg.verify">Verification Information:</String>
+		<String id="AddedMsgMgrDlg.isdelall">Are you sure you want to delete these add requests?</String>
 
-		<String id="cucmE_WRONGSTATUS">内部状态错误!</String>
-		<String id="cucmE_EXISTGROUPNAME">存在重名的分组，无法创建。</String>
-		<String id="cucmE_EXISTUSER">好友已经存在!</String>
-		<String id="cucmE_ADDSELF">不能添加自己为好友</String>
-		<String id="cucmE_INBLACKLIST">此人已经被阻止!</String>
-		<String id="cucmE_INVALIDARG">不正确的输入!</String>
-		<String id="cucmE_MOVE2CHILD">$1不能移动到子组!</String>
-		<String id="cucmE_LOGICALGROUP">$1是保留组，无法进行此操作!</String>
-		<String id="cucmE_EMPTYINPUTUSER">好友名称忘记填啦!</String>
-		<String id="cucmE_EMPTYINPUTGROUP">组名不能为空，无法创建。</String>
-		<String id="cucmE_TOOLONGUSER">好友名称太长了...</String>
-		<String id="cucmE_TOOLONGGROUP">组名称过长!</String>
-		<String id="cucmE_NOTEMPTY">需要把组中的好友先清空或转移，才能删除这个组</String>
-		<String id="cucmE_LOGICALPARENTGROUP">$1不能移动到保留组$2!</String>
-		<String id="cucmE_NOSUCHGROUP">此组不存在!</String>
-		<String id="cucmE_INVALIDCHARINDISPNAME"><![CDATA[显示名称不能包含字符'<'和'>'等!]]></String>
+		<String id="cucmE_WRONGSTATUS">Internal status error!</String>
+		<String id="cucmE_EXISTGROUPNAME">Group name already in use.</String>
+		<String id="cucmE_EXISTUSER">Friend already exists!</String>
+		<String id="cucmE_ADDSELF">Cannot add yourself as a friend</String>
+		<String id="cucmE_INBLACKLIST">This person has been blocked!</String>
+		<String id="cucmE_INVALIDARG">Incorrect input!</String>
+		<String id="cucmE_MOVE2CHILD">$1 cannot be moved to a subgroup!</String>
+		<String id="cucmE_LOGICALGROUP">$1 is a reserved group and this is not possible!</String>
+		<String id="cucmE_EMPTYINPUTUSER">Friend name is forgotten!</String>
+		<String id="cucmE_EMPTYINPUTGROUP">The group name cannot be empty.</String>
+		<String id="cucmE_TOOLONGUSER">The friend name is too long...</String>
+		<String id="cucmE_TOOLONGGROUP">The group name is too long!</String>
+		<String id="cucmE_NOTEMPTY">You need to empty or transfer your friends in the group before you can delete this group</String>
+		<String id="cucmE_LOGICALPARENTGROUP">$1 cannot be moved to the reserved group $2!</String>
+		<String id="cucmE_NOSUCHGROUP">This group does not exist!</String>
+		<String id="cucmE_INVALIDCHARINDISPNAME">
+			<![CDATA[display name cannot contain characters '<' and '>' etc!]]>
+		</String>
 
     <!--screen capture-->
-		<String id="ScreenCapture.RButtonDown01">完成截图</String>
-		<String id="ScreenCapture.Complete">完成</String>
-		<String id="ScreenCapture.RButtonDown00">完成全屏截图</String>
-		<String id="ScreenCapture.RButtonDown11">另存截图</String>
-		<String id="ScreenCapture.RButtonDown10">另存全屏截图</String>
-		<String id="ScreenCapture.RButtonDown2">取消截图</String>
-		<String id="ScreenCapture.RButtonDown31">复制截图</String>
-		<String id="ScreenCapture.RButtonDown30">复制全屏截图</String>
-		<String id="ScreenCapture.TIP_UNDRAG">按住鼠标左键不放，移动鼠标选取截屏区域</String>
-		<String id="ScreenCapture.TIP_DRAG1">1.拖动边框上的节点可调整截取区域大小</String>
-		<String id="ScreenCapture.TIP_DRAG2">2.拖动截取区域可调整位置</String>
-		<String id="ScreenCapture.TIP_DRAG3">3.点击鼠标右键可以选择操作</String>
-		<String id="ScreenCapture.TIP_ONDRAG">点击鼠标右键，选择进一步操作</String>
-		<String id="ScreenCapture.TIP_ShowCaptureSize">区域大小: </String>
-		<String id="ScreenCapture.TIP_ShowCaptureSize2">选定区域后，鼠标双击完成截图</String>
-		<String id="ScreenCapture.Tip.cursor">移动选框</String>
-		<String id="ScreenCapture.Tip.drawrect">画方框</String>
-		<String id="ScreenCapture.Tip.drawellipse">画圆</String>
-		<String id="ScreenCapture.Tip.drawline">画箭头</String>
-		<String id="ScreenCapture.Tip.drawtext">写字</String>
-		<String id="ScreenCapture.Tip.graffiti.pen">画笔工具</String>
-		<String id="ScreenCapture.Tip.graffiti.spray">喷瓶工具</String>
-		<String id="ScreenCapture.Tip.graffiti.erase">橡皮擦工具</String>
-		<String id="ScreenCapture.Tip.graffiti.transform">哈哈镜工具</String>
-		<String id="ScreenCapture.Tip.setcolor">设置颜色</String>
-		<String id="ScreenCapture.Tip.pen">画笔</String>
-		<String id="ScreenCapture.Tip.setwidth">设置线宽</String>
-		<String id="ScreenCapture.Tip.settrans">设置透明度</String>
-		<String id="ScreenCapture.Tip.setfont">设置字体</String>
-		<String id="ScreenCapture.Tip.undo">撤销</String>
-		<String id="ScreenCapture.Tip.redo">恢复</String>
-		<String id="ScreenCapture.Tip.save">保存截屏</String>
-		<String id="ScreenCapture.Tip.imagine">完成截图，帮你搜到相似宝贝</String>
-		<String id="ScreenCapture.Tip.imaginetooltip">截图帮你找宝贝</String>
-		<String id="ScreenCapture.Tip.finish">完成截图</String>
-		<String id="ScreenCapture.Tip.cancel">取消截图</String>
-    <String id="ScreenCapture.TipText.1">按Shift键可显示/隐藏聊天窗口</String>
+		<String id="ScreenCapture.RButtonDown01">Complete screenshots</String>
+		<String id="ScreenCapture.Complete">Complete</String>
+		<String id="ScreenCapture.RButtonDown00">Complete full screen screenshot</String>
+		<String id="ScreenCapture.RButtonDown11">Save screenshots</String>
+		<String id="ScreenCapture.RButtonDown10">Save full screen screenshot</String>
+		<String id="ScreenCapture.RButtonDown2">Cancel screenshot </String>
+		<String id="ScreenCapture.RButtonDown31">Copy screenshots</String>
+		<String id="ScreenCapture.RButtonDown30">Copy Full Screen Screenshot</String>
+		<String id="ScreenCapture.TIP_UNDRAG">Hold down the left mouse button and use the mouse to select capture area</String>
+		<String id="ScreenCapture.TIP_DRAG1">1.Drag the nodes on the border to adjust the size of the selected area</String>
+		<String id="ScreenCapture.TIP_DRAG2">2.Drag the selection area to adjust the position</String>
+		<String id="ScreenCapture.TIP_DRAG3">3.Click the right mouse button to select an action</String>
+		<String id="ScreenCapture.TIP_ONDRAG">Click the right mouse button and select further action</String>
+		<String id="ScreenCapture.TIP_ShowCaptureSize">Region Size: </String>
+		<String id="ScreenCapture.TIP_ShowCaptureSize2">After the selected area, double-click to complete the screenshot</String>
+		<String id="ScreenCapture.Tip.cursor">Move Marquee</String>
+		<String id="ScreenCapture.Tip.drawrect">Draw a box</String>
+		<String id="ScreenCapture.Tip.drawellipse">Draw a circle</String>
+		<String id="ScreenCapture.Tip.drawline">Draw Arrow</String>
+		<String id="ScreenCapture.Tip.drawtext">Write </String>
+		<String id="ScreenCapture.Tip.graffiti.pen">Brush Tool</String>
+		<String id="ScreenCapture.Tip.graffiti.spray">Spray Bottle Tool</String>
+		<String id="ScreenCapture.Tip.graffiti.erase">Eraser Tool</String>
+		<String id="ScreenCapture.Tip.graffiti.transform">Haha mirror tool</String>
+		<String id="ScreenCapture.Tip.setcolor">Set color</String>
+		<String id="ScreenCapture.Tip.pen">brush</String>
+		<String id="ScreenCapture.Tip.setwidth">Set line width</String>
+		<String id="ScreenCapture.Tip.settrans">Set Transparency</String>
+		<String id="ScreenCapture.Tip.setfont">Set Fonts</String>
+		<String id="ScreenCapture.Tip.undo">Undo</String>
+		<String id="ScreenCapture.Tip.redo">Restore</String>
+		<String id="ScreenCapture.Tip.save">Save screenshots</String>
+		<String id="ScreenCapture.Tip.imagine">Complete the screenshot and help you find similar baby</String>
+		<String id="ScreenCapture.Tip.imaginetooltip">Screenshot to help you find baby</String>
+		<String id="ScreenCapture.Tip.finish">Complete the screenshot</String>
+		<String id="ScreenCapture.Tip.cancel">Cancel screenshots</String>
+		<String id="ScreenCapture.TipText.1">Press the Shift key to show/hide the chat window</String>
 
-    <String id="chat_dialog_font_bold">粗体</String>
-		<String id="chat_dialog_font_italic">斜体</String>
-		<String id="chat_dialog_font_underline">下划线</String>
-		<String id="chat_dialog_font_color">颜色</String>
-		<String id="chat_dialog_close">关闭</String>
+		<String id="chat_dialog_font_bold">Bold</String>
+		<String id="chat_dialog_font_italic">Italic</String>
+		<String id="chat_dialog_font_underline">Underline</String>
+		<String id="chat_dialog_font_color">color</String>
+		<String id="chat_dialog_close">Close</String>
 
 		<!--emotion common-->
 		<String id="emotionCommon.moveEmotion">Moving Emoticons</String>
@@ -677,8 +679,8 @@
 		<String id="aliwangwang_emotion_package">阿里旺旺表情包</String>
 		<!--End   表情分组-->
 		<!--auto_reply_never-->
-		<String id="auto_reply_never"><![CDATA[&nbsp;&nbsp;<span id='auto_reply_text_button'><a href='#NotDisplayAutoReply#' class='J_CustomLink'><font style='font-size:12px;text-decoration:underline;' face='宋体' color='#004BE3'>不再提醒</font></a></span>]]></String>
-		<String id="auto_reply_never_yh"><![CDATA[&nbsp;&nbsp;<span id='auto_reply_text_button'><a href='#NotDisplayAutoReply#' class='J_CustomLink'><font style='font-size:12px;text-decoration:underline;' face='微软雅黑' color='#004BE3'>不再提醒</font></a></span>]]></String>
+		<String id="auto_reply_never"><![CDATA[&nbsp;&nbsp;<span id='auto_reply_text_button'><a href='#NotDisplayAutoReply#' class='J_CustomLink'><font style='font-size:12px;text-decoration:underline;' face='宋体' color='#004BE3'>不再Reminder</font></a></span>]]></String>
+		<String id="auto_reply_never_yh"><![CDATA[&nbsp;&nbsp;<span id='auto_reply_text_button'><a href='#NotDisplayAutoReply#' class='J_CustomLink'><font style='font-size:12px;text-decoration:underline;' face='微软雅黑' color='#004BE3'>不再Reminder</font></a></span>]]></String>
 		<String	id="Emotionmgr.caption_text">表情管理器</String>
 		<String	id="Emotionmgr.singleemotionexist_text">该表情已经存在!</String>
 		<String	id="Emotionmgr.changesingleemotionok_text">更改表情成功!</String>
@@ -798,8 +800,8 @@
 		<String id="chatdlg_clipscreen_custom_shortcut">Screenshot</String>
 		<String id="chatdlg_clipscreen_select_file">Select File Map</String>
 		<!--send copy of the copy 分段发送的文案-->
-		<String id="Chat.MessageTooLong.Remind">您输入的内容长度超出限制，系统将发送长度限制内的部分，其余部分保留在输入框内，确定要继续吗？</String>
-		<String id="Chat.MessageTooLong.Check">不再提醒</String>
+		<String id="Chat.MessageTooLong.Remind">您Input的内容长度超出限制，系统将发送长度限制内的部分，其余部分保留在Input框内，确定要继续吗？</String>
+		<String id="Chat.MessageTooLong.Check">不再Reminder</String>
 		<!--回复提示-->
 		<String id="ShakeMessages.cannot.quiet">对方处于免打扰状态，无法接受振屏。</String>
 		<String id="chat_dialog_localreminder_quietstatus"><![CDATA[<S><I><T>对方为“请勿打扰”状态，可能不方便接收您的消息。</T><L/></I></S>]]></String>
@@ -831,26 +833,26 @@
 		<String id="this_user_decline_anyone_add_him">该用户拒绝被任何人添加!</String>
 		<String id="this_user_need_verify">该用户需要验证通过才能发消息</String>
 		<!--轻聊登录错误-->
-		<String id="ChatAuthError.1">请先确认是否选择了正确的帐号类型，然后输入正确的会员名</String>
+		<String id="ChatAuthError.1">请先确认是否选择了正确的帐号类型，然后Input正确的会员名</String>
 		<String id="ChatAuthError.2">密码已修改或记住密码已失效，请退出并重新登录阿里旺旺</String>
 		<String id="ChatAuthError.3">网站ID已经被系统禁用，无法登录阿里旺旺</String>
 		<String id="ChatAuthError.4">权限不够</String>
 		<String id="ChatAuthError.5">登录受限用户</String>
 		<String id="ChatAuthError.6">该帐号只能登录到指定服务器</String>
 		<String id="ChatAuthError.8">XXX用户绑定的MMMLLL已经被系统禁用，无法登录阿里旺旺</String>-->
-		<String id="ChatAuthError.21">您的E客服服务已到期，请联系主帐号开通或延长服务期</String>
-		<String id="ChatAuthError.22">您的E客服服务已到期，请联系主帐号开通或延长服务期</String>
+		<String id="ChatAuthError.21">您的E客服服务已到期，请联系主帐号Open或延长服务期</String>
+		<String id="ChatAuthError.22">您的E客服服务已到期，请联系主帐号Open或延长服务期</String>
 		<String id="ChatAuthError.23">由于您的主帐号已经“暂停”了在线客服功能，所以您无法使用阿里旺旺.如需使用，请联系您的主帐号重新开启在线客服功能</String>
 		<String id="ChatAuthError.31">由于您的账号涉嫌发送广告或垃圾消息，暂时无法登录阿里旺旺</String>
-		<String id="ChatAuthError.153">手机/邮箱对应的用户名获取失败，请重新登录</String>
-		<String id="ChatAuthError.160">安全验证登录失败!</String>
-		<String id="ChatAuthError.161">安全验证登录失败，用户名或密码错误。</String>
-		<String id="ChatAuthError.162">安全验证登录失败，服务器验证错误。</String>
-		<String id="ChatAuthError.163">安全验证登录失败，获取联系人列表失败。</String>
-		<String id="ChatAuthError.164">安全验证登录失败，服务器返回错误。</String>
-		<String id="ChatAuthError.165">安全验证登录失败，服务器返回未知错误。</String>
-		<String id="ChatAuthError.166">安全验证登录失败。</String>
-		<String id="ChatAuthError.168">安全验证登录失败，连接被中断。</String>
+		<String id="ChatAuthError.153">Mobile/邮箱对应的用户名获取失败，请重新登录</String>
+		<String id="ChatAuthError.160">Security验证登录失败!</String>
+		<String id="ChatAuthError.161">Security验证登录失败，用户名或密码错误。</String>
+		<String id="ChatAuthError.162">Security验证登录失败，服务器验证错误。</String>
+		<String id="ChatAuthError.163">Security验证登录失败，获取联系人列表失败。</String>
+		<String id="ChatAuthError.164">Security验证登录失败，服务器返回错误。</String>
+		<String id="ChatAuthError.165">Security验证登录失败，服务器返回未知错误。</String>
+		<String id="ChatAuthError.166">Security验证登录失败。</String>
+		<String id="ChatAuthError.168">Security验证登录失败，连接被中断。</String>
 		<String id="ChatAuthError.254">阿里旺旺服务器正在维护中，请退出阿里旺旺，然后重新登录。给您带来的不便敬请见谅。</String>
 		<String id="ChatAuthError.255">阿里旺旺服务器正在维护中，请退出阿里旺旺，然后重新登录。给您带来的不便敬请见谅。</String>
 		<String id="ChatAuthCodeError">验证码错误，请重试</String>
@@ -900,21 +902,21 @@
       <String id="UrlMsgText">[链接]</String>
       <String id="FileMsgText">[文件]</String>
       <String id="UnknownMsgText">[未知]</String>
-		<!--手动输入密码登录阿里旺旺-->
-		<String id="loginchat.loginNotice">阿里旺旺登录失败，请重新输入密码</String>
+		<!--手动Input密码登录阿里旺旺-->
+		<String id="loginchat.loginNotice">阿里旺旺登录失败，请重新Input密码</String>
 		<String id="loginchat.login">立即登录</String>
 		<String id="reportcentre">举报中心</String>
 		<!--激活阿里旺旺窗口-->
 		<String id="activeclient.gotolook">去看看</String>
 		<!--主搜提示语句-->
-		<String id="MainSearchWnd.SearchItemRemind">搜淘宝</String>
+		<String id="MainSearchWnd.SearchItemRemind">Search Taobao</String>
 		<!--离线文件-->
 		<String id="offline_file_received_reply"><![CDATA[\C0x000000\T对方成功接收了您发送的离线文件 "%s" (%.2f%s)]]></String>
 		<String id="send_offline_file_finished">文件已上传服务器，将为您的好友保存%d天。</String>
 		<String id="file_transfer_delete_unsafe_warning">您确认要删除“ %s ”吗？</String>
 		<String id="file_transmission.messagebox.file_send.overrun_max_at_a_time">您选择的文件数量超出限制，一次最多能够选择20个文件发送!</String>
 		<String id="file_transmission.messagebox.recv.unsafe.alert">您将要接收的文件%s有可能会对您的电脑产生威胁，是否继续接收?</String>
-		<String id="file_checking_no_more">不再提醒</String>
+		<String id="file_checking_no_more">不再Reminder</String>
 		<String id="file_checking_title">警告</String>
 		<String id="file_checking_delete">删除</String>
 		<String id="file_checking_open">打开</String>
@@ -940,7 +942,7 @@
 		<String id="selecl_folder_to_send">请选择发送文件夹</String>
 		<String id="selecl_folder_to_recv">请选择接受文件夹</String>
 		<String id="folder_transmission.messagebox_path_too_long">文件夹或文件路径太长，无法接收</String>
-		<String id="folder_transmission.messagebox.recv.unsafe.alert">您将要接收的文件夹“%s”内有可能存在不安全的文件，是否继续接收？</String>
+		<String id="folder_transmission.messagebox.recv.unsafe.alert">您将要接收的文件夹“%s”内有可能存在不Security的文件，是否继续接收？</String>
 		<String id="folder_transmission_already_exist">已经存在同名文件夹，接收的文件将替换原有的同名文件，是否继续接收？</String>
 		<String id="recv_folder_transmission_partly_finished">接收完成，部分文件未接收成功</String>
 		<String id="folder_transmission_check_unfinished_files">查看</String>
@@ -960,7 +962,7 @@
 		<String id="FileTransEvent_DeclineAutoByContact_LinkMsg">点此修改设置</String>
 		<String id="FileTransEvent_DeclineByContact">对方拒绝了接收该%s</String>
 		<String id="FileTransEvent_DeclineBySelf">您拒绝了接收该%s</String>
-		<String id="FileTransEvent_DeclineUnSafe">对方拒绝接收所有可能是不安全的文件</String>
+		<String id="FileTransEvent_DeclineUnSafe">对方拒绝接收所有可能是不Security的文件</String>
 		<String id="FileTransEvent_DeclineAll">对方拒绝接收所有文件</String>
 		<String id="FileTransEvent_Offline">对方选了离线文件方式发送，取消了在线文件传输</String>
 		<String id="FileTransEvent_CancelByContact">对方取消了传输%s</String>
@@ -1150,7 +1152,7 @@
 		</String>
 		<String id="tribe.quit.check">确定退出本群</String>
 		<String id="tribe.quit.cancel">取消</String>
-		<String id="tribe.join.needpwd.tip">您申请加入的群“%s”(群号:%s)需要输入密码.</String>
+		<String id="tribe.join.needpwd.tip">您申请加入的群“%s”(群号:%s)需要Input密码.</String>
 		<String id="tribe.join.needpwd2.tip">密码：</String>
 		<String id="tribe.join.needpwd.ok">发送</String>
 		<String id="tribe.join.needpwd.cancel">关闭</String>
@@ -1163,7 +1165,7 @@
 		<String id="tribe.join.needvalidate1.tip"><![CDATA[群号码:%s]]></String>
 		<String id="tribe.join.needvalidate2.tip"><![CDATA[群名称:%s]]></String>
 		<String id="tribe.join.needvalidate3.tip">需要群主(或管理员)验证，验证通过后您才能加入该群.</String>
-		<String id="tribe.join.needvalidate4.tip">请输入简短的自我介绍(可选):</String>
+		<String id="tribe.join.needvalidate4.tip">请Input简短的自我介绍(可选):</String>
 
 		<String id="tribe.join.needvalidate.ok">发送验证</String>
 		<String id="tribe.join.validate.tip">%s的“%s”想加入您的群“%s(%s)”</String>
@@ -1172,7 +1174,7 @@
 		<String id="tribe.join.validate.radio1">允许</String>
 		<String id="tribe.join.validate.radio2">拒绝</String>
 		<String id="tribe.join.validate.radio3">拒绝并加入黑名单</String>
-		<String id="tribe.join.validate.edit">输入理由</String>
+		<String id="tribe.join.validate.edit">Input理由</String>
 		<String id="tribe.join.validate.view">查看对方名片</String>
 		<String id="tribe.join.validate.ok">确定</String>
 		<String id="tribe.join.denied.title">加入群的请求被拒绝</String>
@@ -1284,27 +1286,27 @@
 		<String id="tribe_management_button_ex_menu_1">群资料</String>
 		<String id="tribe_management_button_ex_menu_2">个性设置</String>
 		<String id="tribe_management_button_ex_menu_3">群成员</String>
-		<String id="tribe_management_button_ex_menu_4">安全管理</String>
+		<String id="tribe_management_button_ex_menu_4">Security管理</String>
 		<String id="tribe_management_button_ex_menu_5">黑名单</String>
 
 
-		<!--群页面以及脚本文件对应字符串-->
-		<String id="tribemanage_baseconf_num_textlabel">群号码:</String>
-		<String id="tribemanage_baseconf_owner_textlabel">群 主:</String>
-		<String id="tribemanage_baseconf_name_textlabel">群名称:</String>
-		<String id="tribemanage_baseconf_class_textlabel">分 类:</String>
-		<String id="tribemanage_baseconf_status_textlabel">群签名:</String>
-		<String id="tribemanage_baseconf_introduction_textlabel"> 群简介:</String>
-		<String id="tribemanage_baseconf_keyword_textlabel">关键字:</String>
-		<String id="tribemanage_membermgr_listname_textlabel">成员列表</String>
-		<String id="tribemanage_membermgr_setadmin_button">设置管理员</String>
-		<String id="tribemanage_membermgr_canceladmin_button">取消管理员</String>
-		<String id="tribemanage_membermgr_clearvisitor_button">清空游客</String>
-		<String id="tribemanage_membermgr_delmember_button">删除该成员</String>
-		<String id="tribemanage_membermgr_addfriend_button">加为好友</String>
-		<String id="tribemanage_membermgr_addmember_button">邀请成员</String>
-		<String id="tribemanage_membermgr_rename_button">重命名</String>
-		<String id="tribemanage_safeconf_type1_radiobox">允许任何人加入群</String>
+		<!--Group page and script file corresponding string群页面以及脚本文件对应字符串-->
+		<String id="tribemanage_baseconf_num_textlabel">group number:</String>
+		<String id="tribemanage_baseconf_owner_textlabel">Group owner:</String>
+		<String id="tribemanage_baseconf_name_textlabel">Group Name:</String>
+		<String id="tribemanage_baseconf_class_textlabel">Classification:</String>
+		<String id="tribemanage_baseconf_status_textlabel">Group Signature:</String>
+		<String id="tribemanage_baseconf_introduction_textlabel"> Group Profile:</String>
+		<String id="tribemanage_baseconf_keyword_textlabel">Keyword:</String>
+		<String id="tribemanage_membermgr_listname_textlabel">Member List</String>
+		<String id="tribemanage_membermgr_setadmin_button">Set Administrator</String>
+		<String id="tribemanage_membermgr_canceladmin_button">Cancel Administrator</String>
+		<String id="tribemanage_membermgr_clearvisitor_button">Empty visitors</String>
+		<String id="tribemanage_membermgr_delmember_button">Delete this member</String>
+		<String id="tribemanage_membermgr_addfriend_button">Add as a friend</String>
+		<String id="tribemanage_membermgr_addmember_button">Invite members</String>
+		<String id="tribemanage_membermgr_rename_button">Rename</String>
+		<String id="tribemanage_safeconf_type1_radiobox">Allow anyone to join the group</String>
 		<String id="tribemanage_safeconf_type2_radiobox">需要身份验证才能加入该群</String>
 		<String id="tribemanage_safeconf_type3_radiobox">需要密码才能加入该群</String>
 		<String id="tribemanage_safeconf_type4_radiobox">不允许任何人主动加入该群</String>
@@ -1339,10 +1341,10 @@
 
 		<String id="tribemanage_keyword_textlabel">点击推荐关键字，自动帮您填入：</String>
 
-		<String id="tribemanage_name_error">您输入的群名称中包含安全威胁，请重新输入！</String>
-		<String id="tribemanage_status_error">您输入的群签名中包含安全威胁，请重新输入！</String>
-		<String id="tribemanage_introduction_error">您输入的群简介中包含安全威胁，请重新输入！</String>
-		<String id="tribemanage_keyword_error">您输入的群关键字中包含安全威胁，请重新输入！</String>
+		<String id="tribemanage_name_error">您Input的群名称中包含Security威胁，请重新Input！</String>
+		<String id="tribemanage_status_error">您Input的群签名中包含Security威胁，请重新Input！</String>
+		<String id="tribemanage_introduction_error">您Input的群简介中包含Security威胁，请重新Input！</String>
+		<String id="tribemanage_keyword_error">您Input的群关键字中包含Security威胁，请重新Input！</String>
 
 		<String id ="tribemanage_title_fmt">群管理-%s (群号:%s)</String>
 		<String id ="tribemanage_baseconf_name_tips">必填，最多不超过20个字</String>
@@ -1355,23 +1357,23 @@
 		<String id="tribemanage_baseconf_keyword_edit_tips">本群暂未填写关键字</String>
 		<String id="Error_TribeName_Empty">请填写群名称</String>
 
-		<String id="Error_TribeInfo_NoSupport"><![CDATA[输入内容不支持使用“<”、“>”，请修改后重新提交!]]></String>
+		<String id="Error_TribeInfo_NoSupport"><![CDATA[Input内容不支持使用“<”、“>”，请修改后重新提交!]]></String>
 		<String id="Error_TribePass_Limit">Password must be 6-20 characters</String>
 
 		<String id="Error_TribeBlack_Exist"> 该用户已被移至黑名单  </String>
 		<String id="Tribemange_Tab1">群资料</String>
 		<String id="Tribemange_Tab2">群成员</String>
 		<String id="Tribemange_Tab3">个性设置</String>
-		<String id="Tribemange_Tab4">安全管理</String>
+		<String id="Tribemange_Tab4">Security MGT</String>
 		<String id="Tribemange_Tab5">黑名单</String>
 		<String id="TribeAddBlack_Title">阻止加入群</String>
 		<String id="TribeAddBlackAddTitle_text">添加黑名单</String>
 		<String id="TribeAddBlackList_text">已加入黑名单用户</String>
 		<String id="TribeAddBlackTip_text">加入黑名单的用户将无法申请加入本群，如果已在群内，将被踢出。</String>
-		<String id="TribeAddBlackUserId_text">请输入您要阻止的会员名</String>
+		<String id="TribeAddBlackUserId_text">请Input您要阻止的会员名</String>
 		<String id="TribeAddBlackSite_text">请选择对方的帐号类型:</String>
 		<String id="TribeAddBlackOk_text">添加黑名单</String>
-		<String id="TribeAddBlackUserIdEmpty">请输入您要阻止的会员登录名</String>
+		<String id="TribeAddBlackUserIdEmpty">请Input您要阻止的会员登录名</String>
 		<String id="TribePortraitSet">设置群标志</String>
 		<String id="TribeBulletinSet">设置群公告</String>
     <String id="TribeIndvConf_Nickname_title">群昵称</String>
@@ -1405,7 +1407,7 @@
 		<String id="ID_TRIBESETTING_GLOBAL_HOTKEY_GROUPBOX"><![CDATA[  设定自定义热键]]></String>
 		<String id="ID_TRIBESETTING_GLOBAL_HOTKEY_LABEL">查看群消息</String>
 		<String id="ID_TRIBESETTING_GLOBAL_HOTKEY_LABEL1">自定义热键</String>
-		<String id="ID_TRIBESETTING_GLOBAL_HOTKEY_TIP_LABEL">注:您可以直接在输入框中修改或取消热键设置</String>
+		<String id="ID_TRIBESETTING_GLOBAL_HOTKEY_TIP_LABEL">注:您可以直接在Input框中修改或取消热键设置</String>
 		<String id="ID_TRIBESETTING_GLOBAL_VALIDATE_GROUPBOX"><![CDATA[  群验证设置]]></String>
 		<String id="ID_TRIBESETTING_GLOBAL_VALIDATE1_RADIOBOX">把我加入群，不需要我验证</String>
 		<String id="ID_TRIBESETTING_GLOBAL_VALIDATE2_RADIOBOX">把我加入群，需要我验证</String>
@@ -1495,39 +1497,39 @@
 		<String id="tribelist.tranfertribe.result.errormsg.5">群转让失败！原因：您加入的群已满。</String>
 		<String id="tribelist.tranfertribe.result.errormsg.6">群转让失败！原因：对方可启用的群已满。</String>
 
-		<!--分组-->
-		<String id="cucmungroup">未分组好友</String>
-		<String id="cucmrecentuser">最近联系</String>
-		<String id="cucmrecenttrader">最近交易</String>
-		<String id="cucmstrangeruser">陌生人</String>
-		<String id="cucmblackuser">黑名单</String>
-		<String id="cucmstaruser">星标组</String>
+		<!--Grouping 分组-->
+		<String id="cucmungroup">Ungrouped friends</String>
+		<String id="cucmrecentuser">Recently contact</String>
+		<String id="cucmrecenttrader">Recent transactions</String>
+		<String id="cucmstrangeruser">Strangers</String>
+		<String id="cucmblackuser">blacklist</String>
+		<String id="cucmstaruser">Star Group</String>
 
-		<String id="tribe.at.detail.find.wait.text">正在获取数据，请稍等...</String>
-		<String id="tribe.at.detail.list.view.title">消息阅读记录</String>
-		<String id="tribe.at.detail.list.view.title.read">已读(%d)</String>
-		<String id="tribe.at.detail.list.view.title.unread">未读(%d)</String>
-		<String id="tribe.at.detail.error">群@详细信息获取失败</String>
+		<String id="tribe.at.detail.find.wait.text">Getting data, please wait...</String>
+		<String id="tribe.at.detail.list.view.title">Message Reading Record</String>
+		<String id="tribe.at.detail.list.view.title.read">Readed (%d)</String>
+		<String id="tribe.at.detail.list.view.title.unread">Unread (%d)</String>
+		<String id="tribe.at.detail.error">Group@Details Failed</String>
 
-		 <!--查找/添加联系人-->
+		 <!--Find/Add Contact查找/添加联系人-->
     <String id="idgoback">上一步</String>
     <String id="idsearch">查找</String>
     <String id="idaddcontact">加为好友</String>
     <String id="idjointribe">加入该群</String>
-    <String id="idguestjointribe">游客进入</String>
+    <String id="idguestjointribe">游客Enter</String>
     <String id="idclose">关闭</String>
     <String id="search_type_prompt">请选择查找方式</String>
     <String id="search_contact_type_name">按帐号查找</String>
     <String id="search_contact_type_auto">找可能认识的人</String>
     <String id="search_contact_type_realname">按真实姓名查找</String>
-    <String id="search_contact_type_fuzzy">模糊查找(根据您输入的姓名，关注信息进行模糊查找)</String>
+    <String id="search_contact_type_fuzzy">模糊查找(根据您Input的姓名，关注信息进行模糊查找)</String>
     <String id="search_contact_type_company">公司查找</String>
     <String id="search_contact_fuzzyname_prompt">对方姓名:</String>
-    <String id="search_contact_fuzzyname_value">请输入姓名</String>
+    <String id="search_contact_fuzzyname_value">请Input姓名</String>
     <String id="search_contact_fuzzyinfo_prompt">关注信息:</String>
-    <String id="search_contact_fuzzyinfo_value">请输入关注信息</String>
+    <String id="search_contact_fuzzyinfo_value">请Input关注信息</String>
     <String id="search_contact_companykey_prompt">公司名或主营产品:</String>
-    <String id="search_contact_companykey_value">请输入公司或主营产品名称</String>
+    <String id="search_contact_companykey_value">请Input公司或主营产品名称</String>
     <String id="search_contact_company_desc">说明：公司查找的结果将跳转至网页显示，您可以点击网页上阿里旺旺头像添加好友。</String>
     <String id="search_contact_recommend_text">您可能感兴趣的人</String>
      <String id="search_contact_recommend_text2">您还可能感兴趣的人</String>
@@ -1552,9 +1554,9 @@
     <String id="search_contactadv_agevaluelist">0-15%16-22%23-30%31-40%40-0</String>
     <String id="search_contactadv_agelist">0-15%16-22%23-30%31-40%40以上</String>
     <String id="search_contact_name_prompt">会员名:</String>
-    <String id="search_contact_name_value">请输入会员名</String>
+    <String id="search_contact_name_value">请Input会员名</String>
     <String id="search_contact_realname_prompt">会员姓名:</String>
-    <String id="search_contact_realname_value">请输入对方姓名</String>
+    <String id="search_contact_realname_value">请Input对方姓名</String>
     <String id="search_contact_realname_set">隐私设置</String>
     <String id="search_contact_result_prompt">以下是符合条件的用户:</String>
     <String id="search_contact_result_prompt_notfound">未找到符合条件的用户，请重新查找！</String>
@@ -1569,7 +1571,7 @@
     <String id="search_tribe_category_prompt">选择分类:</String>
     <String id="search_tribe_category_desc">说明：您可只选“分类”或只填“关键字”进行查找，也可填2个条件一起查找。</String>
     <String id="search_tribe_keyword_prompt">填写关键字:</String>
-    <String id="search_tribe_name_prompt">请输入群号:</String>
+    <String id="search_tribe_name_prompt">请Input群号:</String>
     <String id="search_tribe_category_defvalue">请选择分类</String>
     <String id="search_condition_contact_title">基本查找</String>
     <String id="search_condition_contact_adv_title">高级查找</String>
@@ -1590,23 +1592,23 @@
     <String id="search_realname_auth_link">查看淘宝网用户数据完善协议</String>
     <String id="search_realname_idok">同意协议并查找</String>
     <String id="search_realname_set_tip">如果不想被搜索到，请点此进行设置。</String>
-    <String id="search_error_contact_name_isempty">请输入会员名</String>
-    <String id="search_error_contact_realname_isempty">请输入会员姓名</String>
+    <String id="search_error_contact_name_isempty">请Input会员名</String>
+    <String id="search_error_contact_realname_isempty">请Input会员姓名</String>
     <String id="search_error_contact_adv_isempty">请至少选择一项条件！</String>
-    <String id="search_error_tribe_name_isempty">请输入群号码</String>
-    <String id="search_error_tribe_name_notdigit">您输入的群号码错误!群号码由[0-9]数字组成</String>
+    <String id="search_error_tribe_name_isempty">请Input群号码</String>
+    <String id="search_error_tribe_name_notdigit">您Input的群号码错误!群号码由[0-9]数字组成</String>
     <String id="search_error_contact_company_isempty">公司或主营产品名称不能为空</String>
-    <String id="search_error_contact_fuzzy_isempty">请至少输入一项条件！</String>
+    <String id="search_error_contact_fuzzy_isempty">请至少Input一项条件！</String>
     <String id="search_tribe_auth_none">允许任何人加入</String>
     <String id="search_tribe_auth_id">需要验证</String>
     <String id="search_tribe_auth_password">Password Required</String>
     <String id="search_tribe_auth_private">禁止主动加入</String>
-    <String id="search_verify_value">最多可输入10个字。</String>
-    <String id="search_verify_deny">最多可输入10个字。</String>
+    <String id="search_verify_value">最多可Input10个字。</String>
+    <String id="search_verify_deny">最多可Input10个字。</String>
 
-    <String id="CheckSafe">安全扫描</String>
+    <String id="CheckSafe">Security Scan</String>
     <String id="CheckFile">扫描</String>
-    <String id="CheckFile_Tips">建议您立即对所接受文件进行安全扫描！</String>
+    <String id="CheckFile_Tips">建议您立即对所接受文件进行Security扫描！</String>
     <String id="tribe.enabletribe.error">您的活跃度不够，没有启用新群的权限。</String>
     <String id="tribe.manager.level">群等级:</String>
     <String id="tribe.manager.active">群人气:</String>
@@ -1676,10 +1678,10 @@
 		<String id="systemsetting_need_answer_radiobox">需要正确回答问题，才能加我为好友</String>
 		<String id="systemsetting_set_question_label">设置问题：</String>
 		<String id="SystemSetting.check.question.1">我的email地址？</String>
-		<String id="SystemSetting.check.question.2">我的手机号码？</String>
+		<String id="SystemSetting.check.question.2">我的Mobile号码？</String>
 		<String id="SystemSetting.check.question.3">我的真实名字？</String>
 		<String id="SystemSetting.question.or.answer.empty.error">问题或答案都不能为空</String>
-    	<String id="SystemSetting.question.or.answer.invalid">输入的内容包含违规词</String>
+    	<String id="SystemSetting.question.or.answer.invalid">Input的内容包含违规词</String>
 		<String id="systemsetting_set_answer_label">设置答案：</String>
    		<String id="systemsetting_not_allow_radiobox">拒绝任何人加我为好友</String>
    		<String id="systemsetting_infest_groupbox"><![CDATA[  防骚扰]]></String>
@@ -1687,7 +1689,7 @@
 		<String id="systemsetting_tribe_groupbox"><![CDATA[群验证]]></String>
 		<String id="systemsetting_multiperson_groupbox"><![CDATA[多人聊天验证]]></String>
 
-		<String id="systemsetting_added_textlabel">提醒设置</String>
+		<String id="systemsetting_added_textlabel">Reminder设置</String>
 		<String id="SystemSetting.Check.AddedMsg.0">收到添加好友请求并闪动提示</String>
 		<String id="SystemSetting.Check.AddedMsg.1">收到添加好友请求并弹出窗口</String>
 		<String id="systemsetting_add_tribe_request">加入群请求</String>
@@ -1695,7 +1697,7 @@
 		<String id="systemsetting_chatdlg_max_checkbox">聊天窗口数量上限（推荐开启）</String>
 		<String id="systemsetting_chatdlg_over_max_checkbox">聊天窗口数量达到上限，自动回复被缓存的新消息</String>
 		<String id="systemsetting_msg_edit_button">编辑</String>
-		<String id="systemsetting_remain_mode_textlabel">消息提醒模式</String>
+		<String id="systemsetting_remain_mode_textlabel">消息Reminder模式</String>
 
 		<String id="systemsetting_onlytaobao_added_checkbox">仅允许本网站用户（如淘宝网）主动添加我为好友</String>
 
@@ -1714,12 +1716,12 @@
 		<String id="systemsetting_receive_file_groupbox"><![CDATA[接收文件设置]]></String>
 		<String id="systemsetting_recv_file_textlabel">接收的文件保存到以下位置:</String>
 		<String id="systemsetting_recv_file_button">浏览...</String>
-		<String id="systemsetting_auto_warn_checkbox">接收的文件存在危险时提醒我</String>
-		<String id="systemsetting_auto_warn_folder_checkbox">接收的文件夹存在危险时提醒我</String>
-		<String id="systemsetting_auto_warn_compressed_checkbox">接收的压缩包文件存在危险时提醒我</String>
+		<String id="systemsetting_auto_warn_checkbox">接收的文件存在危险时Reminder我</String>
+		<String id="systemsetting_auto_warn_folder_checkbox">接收的文件夹存在危险时Reminder我</String>
+		<String id="systemsetting_auto_warn_compressed_checkbox">接收的压缩包文件存在危险时Reminder我</String>
 
 		<String id="systemsetting_keep_half_file_checkbox">保存未接收完的文件以便下次续传</String>
-		<String id="systemsetting_receive_policy_textlabel">安全设置:</String>
+		<String id="systemsetting_receive_policy_textlabel">Security Settings:</String>
 
 		<String id="systemsetting_login_groupbox">网站登录设置</String>
 		<String id="systemsetting_website_textlabel">所属网站阿里巴巴中文站</String>
@@ -1763,50 +1765,50 @@
 		<String id="systemsetting_chatwindow_topmost_checkbox"><![CDATA[始终保持在其他窗口前端]]></String>
         <String id="systemsetting_dpi_switch"><![CDATA[开启DPI适配（未开启时主界面将保持默认尺寸，设置后需要重新登录）]]></String>
 		<String id="systemsetting_chatwindow_siding_checkbox"><![CDATA[当主界面停靠在桌面边缘时自动隐藏]]></String>
-		<String id="systemsetting_nearest_friend_textlabel">最近联系人上限:</String>
-		<String id="systemsetting_number_stranger_textlabel">陌生人人数上限:</String>
+	<String id="systemsetting_nearest_friend_textlabel">Recent contact limit:</String>
+		<String id="systemsetting_number_stranger_textlabel">Maximum strangers:</String>
 		<String id="systemsetting_normal_otherset_groupbox"><![CDATA[  其它设置]]></String>
 		<String id="systemsetting_mainwindow_taskshow"><![CDATA[在任务栏显示主界面按钮(重新启动阿里旺旺之后生效)]]></String>
 		<String id="systemsetting_mainwindow_topmost"><![CDATA[主界面总显示在最前]]></String>
 		<String id="systemsetting_leave_textlabel_1"><![CDATA[不使用电脑]]></String>
-		<String id="systemsetting_leave_textlabel_2">后:</String>
-		<String id="systemsetting_leave_radiobox">将我的状态变更为“不在电脑旁”</String>
-		<String id="systemsetting_autolock_radiobox">自动锁定阿里旺旺</String>
+		<String id="systemsetting_leave_textlabel_2">After:</String>
+		<String id="systemsetting_leave_radiobox">Change my status to "away"</String>
+		<String id="systemsetting_autolock_radiobox">Automatically lock Ali Wangwang</String>
 		<String id="systemsetting_brower_select_groupbox"><![CDATA[  网络浏览器选择]]></String>
-		<String id="systemsetting_auto_check_checkbox">自动检测</String>
-		<String id="systemsetting_neverremind_groupbox">不再提醒设置</String>
-		<String id="systemsetting_neverremindclear_label">重置所有【不再提醒】设置</String>
-		<String id="systemsetting_nerverremindreset_button">重置</String>
-		<String id="systemsetting_browser_button">浏览...</String>
+		<String id="systemsetting_auto_check_checkbox">Detect Automatically</String>
+		<String id="systemsetting_neverremind_groupbox">Reminder Off</String>
+		<String id="systemsetting_neverremindclear_label">Reset all saved [no reminder]</String>
+		<String id="systemsetting_nerverremindreset_button">Reset</String>
+		<String id="systemsetting_browser_button">Browse...</String>
     <String id="systemsetting_audio2text_textlabel"><![CDATA[语音消息显示识别的文字（取消后可右键显示）]]></String>
 
-    <String id="systemsetting_remind_groupbox">提醒和声音</String>
-		<String id="systemsetting_update_type_groupbox"><![CDATA[消息提醒模式]]></String>
-		<String id="systemsetting_popup_msg_reminder"><![CDATA[浮出提醒]]></String>
-		<String id="systemsetting_popup_radiobox"><![CDATA[ 收到即时消息，同时弹出聊天窗口]]></String>
-		<String id="systemsetting_not_popup_radiobox"><![CDATA[ 收到即时消息，只在右下角闪动]]></String>
-		<String id="systemsetting_stranger_not_popup_radiobox"><![CDATA[ 收到未交流过的陌生人消息，只在右下角闪动]]></String>
-		<String id="systemsetting_remindset_groupbox"><![CDATA[  提醒设置]]></String>
-		<String id="systemsetting_remindset_nosound_checkbox"><![CDATA[当前聊天窗口收到消息时，不发出声音提醒]]></String>
-		<String id="systemsetting_group_remind_groupbox"><![CDATA[  群消息提醒]]></String>
-		<String id="systemsetting_remindset_notify_at_myself"><![CDATA[@我的群消息浮出提醒]]></String>
+    <String id="systemsetting_remind_groupbox">Reminder and sound</String>
+		<String id="systemsetting_update_type_groupbox"><![CDATA[Message Reminder]]></String>
+		<String id="systemsetting_popup_msg_reminder"><![CDATA[Send Reminder]]></String>
+		<String id="systemsetting_popup_radiobox"><![CDATA[Recieve IM and popup]]></String>
+		<String id="systemsetting_not_popup_radiobox"><![CDATA[IM Only with notification]]></String>
+		<String id="systemsetting_stranger_not_popup_radiobox"><![CDATA[ Unknown sender notify only]]></String>
+		<String id="systemsetting_remindset_groupbox"><![CDATA[Reminder Settings]]></String>
+		<String id="systemsetting_remindset_nosound_checkbox"><![CDATA[Disable reminder sound in active window]]></String>
+		<String id="systemsetting_group_remind_groupbox"><![CDATA[Group News Reminder]]></String>
+		<String id="systemsetting_remindset_notify_at_myself"><![CDATA[@My Group News Reminder]]></String>
 
 		<!--2010正式版新增 开始-->
-		<String id="systemsetting_notify_id">提醒</String>
-		<String id="systemsetting_notify_title">提醒类型</String>
-		<String id="systemsetting_notify_descipt">描述</String>
-		<String id="systemmsg_moreinfo">更多新闻</String>
-		<String id="systemmsg_unsubscribe">退订</String>
+		<String id="systemsetting_notify_id">Reminder</String>
+		<String id="systemsetting_notify_title">Reminder Type</String>
+		<String id="systemsetting_notify_descipt">Description</String>
+		<String id="systemmsg_moreinfo">More News</String>
+		<String id="systemmsg_unsubscribe">Unsubscribe</String>
 
 		<!--2010正式版新增 结束-->
 
 		<String id="systemsetting_setup_groupbox"><![CDATA[启动、登录和退出]]></String>
 		<String id="systemsetting_exit_groupbox"><![CDATA[  退出]]></String>
-		<String id="systemsetting_auto_setup_checkbox">启动电脑时自动启动阿里旺旺</String>
-		<String id="systemsetting_auto_login_checkbox">启动阿里旺旺时自动登录</String>
+		<String id="systemsetting_auto_setup_checkbox">Auto launch on boot</String>
+		<String id="systemsetting_auto_login_checkbox">Auto log on start</String>
 		<String id="systemsetting_auto_loginweb_checkbox"><![CDATA[ 登录网站时自动启动阿里旺旺]]></String>
 		<String id="systemsetting_auto_show_checkbox"><![CDATA[ 登录后显示“每日焦点”]]></String>
-		<String id="systemsetting_exit_affirm_checkbox">退出时弹出确认窗口</String>
+		<String id="systemsetting_exit_affirm_checkbox">Confirm Exit</String>
 
 		<!--915系统设置新增-->
 		<String id="systemsetting_daily_textlabel"><![CDATA[登录时每日焦点显示设置]]></String>
@@ -1824,11 +1826,11 @@
 		<String id="systemsetting_av_videomachine_button">摄像头设置</String>
 		<String id="systemsetting_av_audioinmachine_title">声音输出：</String>
 		<String id="systemsetting_av_audioquality_title">输出音量：</String>
-		<String id="systemsetting_av_audiooutmachine_title">声音输入：</String>
+		<String id="systemsetting_av_audiooutmachine_title">声音Input：</String>
 		<String id="systemsetting_av_device_null">无</String>
 		<String id="systemsetting_av_test_audioplay">试听</String>
 		<String id="systemsetting_av_enable_afc">自动调节音量</String>
-		<String id="systemsetting_av_enable_micboost">自动放大输入音量</String>
+		<String id="systemsetting_av_enable_micboost">自动放大Input音量</String>
 
 		<String id="systemsetting_dlg">系统设置</String>
 		<String id="systemsetting_update_groupbox">升级</String>
@@ -1844,8 +1846,8 @@
 		<String id="systemsetting_auto_update_remind_textlabel">阿里旺旺有更新时，提示我进行安装</String>
 		<String id="systemsetting_update_to_textlabel">升级到</String>
 		<String id="systemsetting_update_button">立即更新</String>
-		<String id="systemsetting_update_notity">阿里旺旺更新提醒</String>
-		<String id="systemsetting_update_notity_checkbox">阿里旺旺更新提醒</String>
+		<String id="systemsetting_update_notity">阿里旺旺更新Reminder</String>
+		<String id="systemsetting_update_notity_checkbox">阿里旺旺更新Reminder</String>
 
 		<String id="systemsetting_shortmsg_import_title">导入</String>
 		<String id="systemsetting_shortmsg_import_title2">导入</String>
@@ -1890,7 +1892,7 @@
 		<String id="file_transmission.messagebox.file_send.overrun_max_at_a_time">您选择的文件数量超出限制，一次最多能够选择20个文件发送!</String>
 		<String id="avalible_image.file_dialog.filters">(*.BMP;*.GIF;*.JPG;*.PNG)|*.BMP;*.GIF;*.JPG;*.PNG||</String>
 		<String id="SystemSetting.FileTrans.Accept.0">接收所有文件</String>
-		<String id="SystemSetting.FileTrans.Accept.1">拒绝不安全文件</String>
+		<String id="SystemSetting.FileTrans.Accept.1">拒绝不Security文件</String>
 		<String id="SystemSetting.FileTrans.Accept.2">拒绝所有文件</String>
 		<String id="SystemSetting.IMMsg.GMsg.0">接收所有群发消息</String>
 		<String id="SystemSetting.IMMsg.GMsg.1">仅接收好友的群发消息</String>
@@ -1905,25 +1907,25 @@
 		<String id="ScreenCapture.RButtonDown1">保存截屏</String>
 		<String id="ScreenCapture.RButtonDown2">退出截屏</String>
 
-		<String id="DailyNewsContactTitle">您好，%s</String>
-    	<String id="DailyNews.Title">每日焦点</String>
-		<String id="DailyNews.Set">设置</String>
-		<String id="DailyNewsSet.Title">系统设置</String>
-		<String id="DailyNewsSet.Option.Login">每次登录显示</String>
-		<String id="DailyNewsSet.Option.Day">每天首次登录显示</String>
-		<String id="DailyNewsSet.Option.Week">一周后显示</String>
-		<String id="DailyNewsSet.Option.Never">不再自动显示</String>
+		<String id="DailyNewsContactTitle">Hello, %s</String>
+		<String id="DailyNews.Title">Daily focus</String>
+		<String id="DailyNews.Set">Settings</String>
+		<String id="DailyNewsSet.Title">System Settings</String>
+		<String id="DailyNewsSet.Option.Login">Show every login</String>
+		<String id="DailyNewsSet.Option.Day">Login for the first time every day</String>
+		<String id="DailyNewsSet.Option.Week">Shows after a week</String>
+		<String id="DailyNewsSet.Option.Never"> no longer automatically displayed</String>
 
-		<String id="RemindComponetLeixing">提醒类型</String>
-		<String id="recv_message">收到即时消息</String>
-		<String id="contact_online">联系人上线</String>
-		<String id="contact_offline">联系人下线</String>
-		<String id="system_message">消息提醒</String>
-		<String id="recv_file">收到文件</String>
-		<String id="file_finished">文件接收完成</String>
-		<String id="chatdlg_shake">闪屏振动</String>
-		<String id="tribe_message">群消息</String>
-		<String id="SystemSetting.Roam.Set">漫游我的设置</String>
+		<String id="RemindComponetLeixing">Reminder Type</String>
+		<String id="recv_message">Received Msg</String>
+		<String id="contact_online">Contact online</String>
+		<String id="contact_offline">Contact offline</String>
+		<String id="system_message">Reminder</String>
+		<String id="recv_file">Received file</String>
+		<String id="file_finished">File Received Complete</String>
+		<String id="chatdlg_shake">Screen shake</String>
+		<String id="tribe_message">Tribe Msg</String>
+		<String id="SystemSetting.Roam.Set">Roam My Settings</String>
 
 		<String id="SystemSetCheckBoxOpenMainWindow"><![CDATA[ 打开主窗口]]></String>
 		<String id="SystemSetCheckBoxOpenChatAdapter"><![CDATA[ 打开聊天窗口]]></String>
@@ -1932,23 +1934,24 @@
 		<String id="SystemSetCheckBoxViewMessage"><![CDATA[ 查看消息]]></String>
 		<String id="SystemSetCheckBoxQuicklySend"><![CDATA[ 快速发送]]></String>
 		<String id="SystemSetCheckBoxLockAliWW"><![CDATA[ 锁定]]></String>
-		<String id="SystemSetResetHotKeyButtons">恢复默认值</String>
-		<String id="SystemSetInfoGroupSRD">签名、回复和短语</String>
-		<String id="SystemSetInfoFontSong">微软雅黑</String>
-		<String id="SystemSetInfoFontDefault">微软雅黑</String>
+		
+		<String id="SystemSetResetHotKeyButtons">Restore Defaults</String>
+		<String id="SystemSetInfoGroupSRD">Signature, Reply, and Phrase</String>
+		<String id="SystemSetInfoFontSong">Microsoft Yahei</String>
+		<String id="SystemSetInfoFontDefault">Microsoft Yahei</String>
 		<String id="SystemSetInfoFontVerdana">Verdana</String>
-		<String id="SystemSetInfoSignature">个性签名</String>
-		<String id="SystemSetInfoAdd">新增</String>
-		<String id="SystemSetInfoModify">修改</String>
-		<String id="SystemSetInfoDelete">删除</String>
-		<String id="SystemSetInfoExport">导出</String>
-		<String id="SystemSetInfoImport">导入</String>
-    	<String id="SystemSetInfoTitle">注：个性签名最多不能超过5条</String>
-    	<String id="SystemSetInfoRoundShow">轮播个性签名</String>
-    	<String id="SystemSetInfoRoundSync">同步个性签名到叽歪</String>
-		<String id="SystemSetInfoTimeTextLabel">间隔时间:</String>
-		<String id="SystemSetInfoAutoReply">自动回复</String>
-		<String id="SystemSetInfoLeaveAutoReply">当状态为"不在电脑旁"时，启用自动回复</String>
+		<String id="SystemSetInfoSignature">Personal Signature</String>
+		<String id="SystemSetInfoAdd">New</String>
+		<String id="SystemSetInfoModify">Modify</String>
+		<String id="SystemSetInfoDelete">Delete</String>
+		<String id="SystemSetInfoExport">Export</String>
+		<String id="SystemSetInfoImport">Import</String>
+		<String id="SystemSetInfoTitle">Note: Only 5 Signatures Allowed</String>
+		<String id="SystemSetInfoRoundShow">Rotate Personality Signature</String>
+		<String id="SystemSetInfoRoundSync">Sync Personality Signature to 叽歪</String>
+		<String id="SystemSetInfoTimeTextLabel">Interval: </String>
+		<String id="SystemSetInfoAutoReply">Auto Reply</String>
+		<String id="SystemSetInfoLeaveAutoReply">Enable automatic reply when the status is "away"</String>
 		<String id="SystemSetInfoAllStatusAutoReply">立即启用自动回复（隐身时无效）</String>
 		<!--<String id="SystemSetInfoBusyAutoReply"><![CDATA[ 当状态为"忙碌中"时，启用自动回复]]></String>-->
 		<String id="SystemSetInfoReplyContent">回复内容如下</String>
@@ -1956,11 +1959,11 @@
 		<String id="systemsetting_signname_textlabel">个性签名最多不能超过5条</String>
 		<String id="MoreSystemSetInfoShotPhrae">更多的快捷短语...</String>
 		<String id="MoreSystemSetInfoAutoReply">更多的自动回复...</String>
-		<String id="SystemSetInfoInsertContent">请输入内容:</String>
+		<String id="SystemSetInfoInsertContent">请Input内容:</String>
 		<String id="SystemSetInfoSave">确定</String>
 		<String id="SystemSetInfoSaveAndExit">确定并关闭</String>
 		<String id="SystemSetInfoExit">关闭</String>
-		<String id="RemindComponetLeixing">提醒类型</String>
+		<String id="RemindComponetLeixing">Reminder类型</String>
 		<String id="RemindComponetFloatWindow">浮出</String>
 		<String id="RemindComponetVolumn">声音</String>
 		<String id="RemindComponetVolumnFile">声音文件</String>
@@ -2029,10 +2032,10 @@
 	    <String id="profileclean.ButtonDeleteAll">删除</String>
 	    <String id="profileclean.ButtonDeleteImage">删除...</String>
 	    <String id="profileclean.ButtonClose">关闭</String>
-	    <String id="profilecleanNotify.DlgTitle">个人目录大小提醒</String>
+	    <String id="profilecleanNotify.DlgTitle">个人目录大小Reminder</String>
 	    <String id="profilecleanNotify.NotifyText"><![CDATA[您的%s盘剩余空间过小，为了更好的使用阿里旺旺，建议您进行清理。]]></String>
 	    <String id="profilecleanNotify.ButtonOK">查看可清理的内容</String>
-	    <String id="profilecleanNotify.NotAttention">不再提醒</String>
+	    <String id="profilecleanNotify.NotAttention">不再Reminder</String>
 	    <String id="imageclean.DlgTitle">贴图删除</String>
 	    <String id="imageclean.TextSelect">请选择如何删除贴图</String>
 	    <String id="imageclean.SelectAll">全部删除</String>
@@ -2049,7 +2052,7 @@
 	    <String id="profilecleanSetting.TextClean">清理消息记录、图片等内容，以释放更多空间</String>
 	    <String id="profilecleanSetting.ButtonClean">清理...</String>
 	    <String id="profilecleanSetting.CheckboxText">个人目录大小超过</String>
-	    <String id="profilecleanSetting.CheckboxText2">MB时，提醒我清理</String>
+	    <String id="profilecleanSetting.CheckboxText2">MB时，Reminder我清理</String>
 	    <!--用户Profile清理结束-->
 
 		<String id="idok">确定</String>
@@ -2085,8 +2088,8 @@
 		<String id="SystemSetTagDefaultOpen">默认显示</String>
 		<String id="aliim_status_format">阿里旺旺 - %s [%s] %s</String>
 		<String id="SendtoSth_Title">阿里旺旺</String>
-		<String id="SendtoSth_Err_NoUser">请输入接收方用户ID</String>
-		<String id="SystemSetTag">请输入接收方用户ID</String>
+		<String id="SendtoSth_Err_NoUser">请Input接收方用户ID</String>
+		<String id="SystemSetTag">请Input接收方用户ID</String>
 		<String id="SystemSetTagDoubleClickTip">双击标签，登录时将标签内容默认显示</String>
 		<String id="SystemSetTagAllSelect"><![CDATA[ 全选]]></String>
 		<String id="SystemSetTagAllSelect_NoData"><![CDATA[ 全选（应用快速启动区当前无内容）]]></String>
@@ -2113,11 +2116,11 @@
 		<String id="SystemSetRubbishRun">启动个人聊天防骚扰</String>
 		<String id="SystemSetTribeRubbishRun">启动群聊天防骚扰</String>
 		<String id="SystemSetRubbishFilter">过滤骚扰消息</String>
-		<String id="SystemSetRubbishStatic">请输入您想过滤的关键字，今后您将收不到包含该关键字的消息</String>
+		<String id="SystemSetRubbishStatic">请Input您想过滤的关键字，今后您将收不到包含该关键字的消息</String>
 		<String id="SystemSetRubbishOK">确定</String>
 		<String id="SystemSetRubbishCancel">取消</String>
-		<String id="SystemSetSecurity">安全选项</String>
-		<String id="SystemSetSecurityRemind"><![CDATA[ 点击不确定安全性的链接时提醒我]]></String>
+		<String id="SystemSetSecurity">Security Options</String>
+		<String id="SystemSetSecurityRemind"><![CDATA[ 点击不确定Security性的链接时Reminder我]]></String>
 		<String id="SystemSetSecurityPassport">Login Settings</String>
 		<String id="SystemSetSecurityChangePassTitle">Set Password</String>
 		<String id="SystemSetLanguage">Language</String>
@@ -2281,7 +2284,7 @@
     <String id="namecard.tab.TAOBAO">淘宝交易</String>
     <String id="namecard.tab.TAOBAO.buy">淘宝购物</String>
     <String id="namecard.Private">对方设置了隐私设置，点击查看详情</String>
-    <String id="namecard.NOSpace">尚未开通淘江湖</String>
+    <String id="namecard.NOSpace">尚未Open淘江湖</String>
     <String id="namecard.NOSNS">最近没有发表日志</String>
     <String id="namecard.NOPhoto">最近没有公开的照片</String>
     <String id="namecard.NOFavorite">最近没有收藏宝贝</String>
@@ -2316,8 +2319,8 @@
 	<String id="TMCtrl.NumUnit">件</String>
 	<String id="TMCtrl.OrderID">订单号：</String>
 	<String id="TMCtrl.OrderCreateTime">成交时间：</String>
-	<String id="TMCtrl.OrderShop">进入店铺</String>
-	<String id="TMCtrl.OrderShopTip">点击进入%s的店铺</String>
+	<String id="TMCtrl.OrderShop">Enter店铺</String>
+	<String id="TMCtrl.OrderShopTip">点击Enter%s的店铺</String>
 	<String id="TMCtrl.OrderCouponTip">最近7天优惠</String>
 	<String id="TMCtrl.RealPay">实付款：</String>
 	<String id="TMCtrl.ContactToolTip">点击与卖家 %s 交流</String>
@@ -2376,8 +2379,8 @@
     <String id="ContactInfoWnd.friendcitylabel">城市：</String>
     <String id="ContactInfoWnd.friendarea">区县：</String>
     <String id="ContactInfoWnd.contactinfo">联系信息</String>
-    <String id="ContactInfoWnd.friendmobilelabel">手机：</String>
-    <String id="ContactInfoWnd.bindmobile">绑定手机</String>
+    <String id="ContactInfoWnd.friendmobilelabel">Mobile：</String>
+    <String id="ContactInfoWnd.bindmobile">绑定Mobile</String>
     <String id="ContactInfoWnd.changemobile">更换号码</String>
     <String id="ContactInfoWnd.nullinfo">无</String>
     <String id="ContactInfoWnd.friendphonelabel">电话：</String>
@@ -2414,36 +2417,36 @@
     <String id="ContactInfoWnd.addfriendbtntext">加为好友</String>
     <String id="ContactInfoWnd.openchatdlg">发起会话</String>
     <String id="ContactInfoWnd.defaulttaojianghunopicturestext">这位好友真低调，最近没有公开的照片</String>
-    <String id="ContactInfoWnd.wrongmemopromptmsg">备注最多只能输入32个汉字(或64个英文数字)</String>
-    <String id="ContactInfoWnd.wrongxssmemopromptmsg">您输入的备注信息中包含安全威胁，请重新输入！</String>
-    <String id="ContactInfoWnd.friend.wrongmemopromptmsg">最多输入32个汉字(或64个英文数字)</String>
-    <String id="ContactInfoWnd.friend.wrongxssmemopromptmsg">您输入的好友备注信息包含安全威胁，请重新输入！</String>
-    <String id="ContactInfoWnd.wrongnamepromptmsg">姓名最多只能输入16个汉字(或32个英文数字)</String>
-    <String id="ContactInfoWnd.wrongdispnamepromptmsg">显示名最多只能输入16个汉字(或32个英文数字)</String>
+    <String id="ContactInfoWnd.wrongmemopromptmsg">备注最多只能Input32个汉字(或64个英文数字)</String>
+    <String id="ContactInfoWnd.wrongxssmemopromptmsg">您Input的备注信息中包含Security威胁，请重新Input！</String>
+    <String id="ContactInfoWnd.friend.wrongmemopromptmsg">最多Input32个汉字(或64个英文数字)</String>
+    <String id="ContactInfoWnd.friend.wrongxssmemopromptmsg">您Input的好友备注信息包含Security威胁，请重新Input！</String>
+    <String id="ContactInfoWnd.wrongnamepromptmsg">姓名最多只能Input16个汉字(或32个英文数字)</String>
+    <String id="ContactInfoWnd.wrongdispnamepromptmsg">显示名最多只能Input16个汉字(或32个英文数字)</String>
     <String id="ContactInfoWnd.emptynamepromptmsg">姓名不能为空</String>
-    <String id="ContactInfoWnd.errorxssnamepromptmsg">您输入的姓名信息中包含安全威胁，请重新输入！</String>
-    <String id="ContactInfoWnd.errorxssfriendnamepromptmsg">您输入的显示名信息包含安全威胁，请重新输入！</String>
+    <String id="ContactInfoWnd.errorxssnamepromptmsg">您Input的姓名信息中包含Security威胁，请重新Input！</String>
+    <String id="ContactInfoWnd.errorxssfriendnamepromptmsg">您Input的显示名信息包含Security威胁，请重新Input！</String>
     <String id="ContactInfoWnd.emptydispnamepromptmsg">显示名不能为空</String>
     <String id="ContactInfoWnd.emptycompanymsg">公司名不能为空</String>
     <String id="ContactInfoWnd.emptyphonemsg">电话号码不能为空</String>
-    <String id="ContactInfoWnd.wrongmobilepromptmsg">手机最多只能输入16个汉字(或32个英文数字)</String>
-    <String id="ContactInfoWnd.wrongxssmobilepromptmsg">您输入的手机信息中包含安全威胁，请重新输入！</String>
-    <String id="ContactInfoWnd.wrongphonepromptmsg">电话最多只能输入16个汉字(或32个英文数字)</String>
-    <String id="ContactInfoWnd.wrongxssphonepromptmsg">您输入的电话信息中包含安全威胁，请重新输入！</String>
-    <String id="ContactInfoWnd.wrongfaxpromptmsg">传真最多只能输入16个汉字(或32个英文数字)</String>
-    <String id="ContactInfoWnd.wrongdepartmentpromptmsg">部门最多只能输入16个汉字(或32个英文数字)</String>
-    <String id="ContactInfoWnd.wrongpositionpromptmsg">职位最多只能输入8个汉字(或16个英文数字)</String>
-    <String id="ContactInfoWnd.wrongzippromptmsg">邮编最多只能输入8个汉字(或16个英文数字)</String>
-    <String id="ContactInfoWnd.wrongaddresspromptmsg">地址最多只能输入32个汉字(或64个英文数字)</String>
-    <String id="ContactInfoWnd.wrongecompanypromptmsg">公司名最多只能输入32个汉字(或64个英文数字)</String>
+    <String id="ContactInfoWnd.wrongmobilepromptmsg">Mobile最多只能Input16个汉字(或32个英文数字)</String>
+    <String id="ContactInfoWnd.wrongxssmobilepromptmsg">您Input的Mobile信息中包含Security威胁，请重新Input！</String>
+    <String id="ContactInfoWnd.wrongphonepromptmsg">电话最多只能Input16个汉字(或32个英文数字)</String>
+    <String id="ContactInfoWnd.wrongxssphonepromptmsg">您Input的电话信息中包含Security威胁，请重新Input！</String>
+    <String id="ContactInfoWnd.wrongfaxpromptmsg">传真最多只能Input16个汉字(或32个英文数字)</String>
+    <String id="ContactInfoWnd.wrongdepartmentpromptmsg">部门最多只能Input16个汉字(或32个英文数字)</String>
+    <String id="ContactInfoWnd.wrongpositionpromptmsg">职位最多只能Input8个汉字(或16个英文数字)</String>
+    <String id="ContactInfoWnd.wrongzippromptmsg">邮编最多只能Input8个汉字(或16个英文数字)</String>
+    <String id="ContactInfoWnd.wrongaddresspromptmsg">地址最多只能Input32个汉字(或64个英文数字)</String>
+    <String id="ContactInfoWnd.wrongecompanypromptmsg">公司名最多只能Input32个汉字(或64个英文数字)</String>
     <String id="ContactInfoWnd.wrongemailFmtpromptmsg">邮件格式有误</String>
-    <String id="ContactInfoWnd.wrongpersonalwebsitepromptmsg">个人主页最多只能输入32个汉字(或64个英文数字)</String>
-    <String id="ContactInfoWnd.wrongxsspersonalwebsitepromptmsg">您输入的个人主页信息包含安全威胁，请重新输入！</String>
-    <String id="ContactInfoWnd.wrongschoolpromptmsg">毕业院校最多只能输入32个汉字(或64个英文数字)</String>
-    <String id="ContactInfoWnd.wrongxssschoolpromptmsg">您输入的毕业院校信息包含安全威胁，请重新输入！</String>
+    <String id="ContactInfoWnd.wrongpersonalwebsitepromptmsg">个人主页最多只能Input32个汉字(或64个英文数字)</String>
+    <String id="ContactInfoWnd.wrongxsspersonalwebsitepromptmsg">您Input的个人主页信息包含Security威胁，请重新Input！</String>
+    <String id="ContactInfoWnd.wrongschoolpromptmsg">毕业院校最多只能Input32个汉字(或64个英文数字)</String>
+    <String id="ContactInfoWnd.wrongxssschoolpromptmsg">您Input的毕业院校信息包含Security威胁，请重新Input！</String>
     <String id="ContactInfoWnd.memo.nospecialChars"><![CDATA[备注信息不能含有“<”或“>”或“\”]]></String>
     <String id="ContactInfoWnd.name.nospecialChars"><![CDATA[姓名不能含有“<”或“>”或“\”]]></String>
-    <String id="ContactInfoWnd.mobile.nospecialChars"><![CDATA[手机不能含有“<”或“>”或“\”]]></String>
+    <String id="ContactInfoWnd.mobile.nospecialChars"><![CDATA[Mobile不能含有“<”或“>”或“\”]]></String>
     <String id="ContactInfoWnd.phone.nospecialChars"><![CDATA[电话不能含有“<”或“>”或“\”]]></String>
     <String id="ContactInfoWnd.fax.nospecialChars"><![CDATA[传真不能含有“<”或“>”或“\”]]></String>
     <String id="ContactInfoWnd.department.nospecialChars"><![CDATA[部门不能含有“<”或“>”或“\”]]></String>
@@ -2456,9 +2459,9 @@
     <String id="ContactInfoWnd.dispname.nospecialChars"><![CDATA[显示名不能含有“<”或“>”或“\”]]></String>
     <String id="ContactInfoWnd.friendmemo.nospecialChars"><![CDATA[好友备注不能含有“<”或“>”或“\”]]></String>
     <String id="ContactInfoWnd.company.nospecialChars"><![CDATA[公司名不能含有“<”或“>”或“\”]]></String>
-    <String id="ContactInfoWnd.musthaveemail">必须输入邮件</String>
-    <String id="ContactInfoWnd.errorxssemail">您输入的邮件信息中包含安全威胁，请重新输入！</String>
-    <String id="ContactInfoWnd.errorarea">请输入有效的省市区！</String>
+    <String id="ContactInfoWnd.musthaveemail">必须Input邮件</String>
+    <String id="ContactInfoWnd.errorxssemail">您Input的邮件信息中包含Security威胁，请重新Input！</String>
+    <String id="ContactInfoWnd.errorarea">请Input有效的省市区！</String>
 
     <!--修改头像窗口-->
     <String id="ModifyPortraitWnd.Caption">修改头像</String>
@@ -2483,13 +2486,13 @@
 	<String id="SearchContactsWnd.tip">在主界面中定位</String>
 	<String id="SearchContactsWnd.openchatdlg.failed">打开聊天窗口失败!</String>
 	<String id="SearchContactsWnd.default.initeditcap">查找好友</String>
-	<String id="SearchContactsWnd.default.edittipcontent">输入好友的名称</String>
-	<String id="SearchContactsWnd.mainwnd.edittipcontent">输入好友名称（支持拼音）查找好友！</String>
+	<String id="SearchContactsWnd.default.edittipcontent">Input好友的名称</String>
+	<String id="SearchContactsWnd.mainwnd.edittipcontent">Input好友名称（支持拼音）查找好友！</String>
 	<String id="SearchContactsWnd.default.mainwndeditcap">查找好友，群和宝贝</String>
 	<String id="SearchContactsWnd.hismgr.initeditcap">查找好友或群</String>
-	<String id="SearchContactsWnd.hismgr.edittipcontent">请输入好友名称或群号码!</String>
+	<String id="SearchContactsWnd.hismgr.edittipcontent">请Input好友名称或群号码!</String>
 	<String id="SearchContactsWnd.tribe.initeditcap">查找群友</String>
-	<String id="SearchContactsWnd.tribe.edittipcontent">输入要查找的群友</String>
+	<String id="SearchContactsWnd.tribe.edittipcontent">Input要查找的群友</String>
 	<String	id="SearchContactsWnd.tribe.notribemember_text">没有找到群用户</String>
 	<String	id="SearchContactsWnd.menu.search.select">使用宝贝搜索</String>
 	<String	id="searchcontact.nocontact_text">没有找到好友</String>
@@ -2503,10 +2506,10 @@
 	 <!--mainmenu-->
 		<String id="MainMenu.Tools">Tools</String>
 		<String id="MainMenu.Safe">Security</String>
-		<String id="MainMenu.Lock">Lock</String>
+		<String id="MainMenu.Lock">Lock App</String>
 		<String id="MainMenu.FeedBack">Feedback</String>
 		<String id="MainMenu.Update">Software Upgrade</String>
-		<String id="MainMenu.Changepw">Change</String>
+		<String id="MainMenu.Changepw">Password</String>
 		<String id="MainMenu.Changeuser">Switch Account</String>
 		<String id="MainMenu.Quit">Exit</String>
 		<String id="MainMenu.Sendto">Specify Send</String>
@@ -2610,7 +2613,7 @@
   	<!--sendtownd-->
   	<String id="sendtodlg_windowtext">指定用户发送</String>
 	<String id="sendtodlg_site_info">请选择对方的帐号类型:</String>
-	<String id="sendtodlg_user_id_text">请输入对方的会员名:</String>
+	<String id="sendtodlg_user_id_text">请Input对方的会员名:</String>
 	<String id="sendtodlg_send">发 送</String>
 	<String id="sendtodlg_cancel">取 消</String>
 	<!--sitename-->
@@ -2762,7 +2765,7 @@
 		<String id="HistoryMananger.Tip_ReportBtn">投诉举证</String>
 		<String id="HistoryMananger.Tip_SearchConditionBtn">点击下拉箭头可以选择消息类型</String>
 		<String id="HistoryMananger.Tip_ContactEdit">查找好友或群</String>
-		<String id="HistoryMananger.Tip_KeywordEdit">请输入关键字</String>
+		<String id="HistoryMananger.Tip_KeywordEdit">请Input关键字</String>
 		<String id="HistoryMananger.Tip_ViewOriginalImage">双击查看原图</String>
 
 		<String id="HistoryMananger.Remind_Delete">确定要删除这些消息记录吗?</String>
@@ -2784,8 +2787,8 @@
 		<String id="HistoryMananger.Remind_SaveDataFile">正在写数据到文件，可能需要几分钟，请稍侯...</String>
 		<String id="HistoryMananger.Remind_ZipDataFile">正在压缩数据到文件，可能需要几分钟，请稍侯...</String>
 
-		<String id="HistoryMananger.Error_Input">数字输入有误!</String>
-		<String id="HistoryMananger.Error_InputPage">页数有误，请输入大于0的页数!</String>
+		<String id="HistoryMananger.Error_Input">数字Input有误!</String>
+		<String id="HistoryMananger.Error_InputPage">页数有误，请Input大于0的页数!</String>
 		<String id="HistoryMananger.Error_InputNumber">每页显示数目不能为0!</String>
 		<String id="HistoryMananger.Error_InputTime">开始时间不能迟于结束时间!</String>
 		<String id="HistoryMananger.Error_DeleteEmpty">请选择要删除的消息记录!</String>
@@ -2800,7 +2803,7 @@
 		<String id ="HistoryMananger.ID_HISMSGMGR_EXPORTMSG_MENUITEM">导出消息记录</String>
 		<String id ="HistoryMananger.ID_HISMSGMGR_INSTANTMSG_MENUITEM">即时消息</String>
 		<String id ="HistoryMananger.ID_HISMSGMGR_FILERECORD_MENUITEM">文件记录</String>
-		<String id ="HistoryMananger.ID_HISMSGMGR_MOBILE_MENUITEM">手机短信消息</String>
+		<String id ="HistoryMananger.ID_HISMSGMGR_MOBILE_MENUITEM">Mobile短信消息</String>
 		<String id ="HistoryMananger.ID_HISMSGMGR_TRIBE_MENUITEM">群和讨论组消息</String>
 		<String id ="HistoryMananger.ID_HISMSGMGR_SYSMSG_MENUITEM">系统消息</String>
 		<String id ="HistoryMananger.ID_HISMSGMGR_GARBAGEMSG_MENUITEM">过滤消息</String>
@@ -2856,7 +2859,7 @@
 		<String id ="HistoryMananger.ID_HISMSG_ADVANCED_SEARCH_MSGTYPE_LABAL">消息类型</String>
 		<String id ="HistoryMananger.ID_HISMSG_ADVANCED_SEARCH_INSTANTMSG_LISTITEM">即时消息</String>
 		<String id ="HistoryMananger.ID_HISMSG_ADVANCED_SEARCH_FILERECORD_LISTITEM">文件记录</String>
-		<String id ="HistoryMananger.ID_HISMSG_ADVANCED_SEARCH_MOBILE_LISTITEM">手机短信消息</String>
+		<String id ="HistoryMananger.ID_HISMSG_ADVANCED_SEARCH_MOBILE_LISTITEM">Mobile短信消息</String>
 		<String id ="HistoryMananger.ID_HISMSG_ADVANCED_SEARCH_TRIBE_LISTITEM">群和讨论组消息</String>
 		<String id ="HistoryMananger.ID_HISMSG_ADVANCED_SEARCH_SYSMSG_LISTITEM">系统消息</String>
 		<String id ="HistoryMananger.ID_HISMSG_ADVANCED_SEARCH_GARBAGEMSG_LISTITEM">过滤消息</String>
@@ -2917,7 +2920,7 @@
 		<String id ="HistoryMananger.IE_Btn_ViewAddContactReq">查看添加好友请求</String>
 
 		<!-- 消息管理器搜索 -->
-		<String id ="MsgHisMgrWnd.SerachEdit">请输入关键字</String>
+		<String id ="MsgHisMgrWnd.SerachEdit">请Input关键字</String>
 		<String id ="MsgHisMgrWnd.SerachBtn">搜索</String>
 		<String id ="MsgHisMgrWnd.SerachRadio.All">全部</String>
 		<String id ="MsgHisMgrWnd.SerachRadio.OneMonth">一个月</String>
@@ -2930,7 +2933,7 @@
 		<String id ="MsgHisMgrWnd.AdvSerach.MsgType.IM">即时消息</String>
 		<String id ="MsgHisMgrWnd.AdvSerach.MsgType.File">文件传输</String>
 		<String id ="MsgHisMgrWnd.AdvSerach.MsgType.SysMsg">系统消息</String>
-		<String id ="MsgHisMgrWnd.AdvSerach.MsgType.SMS">手机短息消息</String>
+		<String id ="MsgHisMgrWnd.AdvSerach.MsgType.SMS">Mobile短息消息</String>
 		<String id ="MsgHisMgrWnd.AdvSerach.MsgType.Gar">过滤消息</String>
 		<String id ="MsgHisMgrWnd.AdvSerach.MsgType.Tribe">群和讨论组消息</String>
 
@@ -2945,7 +2948,7 @@
     <String id="error_text_im_unknown">未知的错误发生</String>
     <String id="error_text_im_message_empty">消息不能为空</String>
     <String id="error_text_im_message_contact_too_many">目标好友数量超过限制</String>
-    <String id="host_check_wrong_signature">您电脑中的阿里旺旺安全模块已经不完整，建议您重新下载安装</String>
+    <String id="host_check_wrong_signature">您电脑中的阿里旺旺Security模块已经不完整，建议您重新下载安装</String>
     <String id="error_text_mulselect_over_maxcontact">对不起，您一次最多只能选取%d个好友</String>
     <String id="GroupSend">群发即时消息</String>
     <String id="GroupSendTo">发送给：</String>
@@ -2980,7 +2983,7 @@
         <String id="state_locked"><![CDATA[正处于锁定状态]]></String>
 
     <!--应用盒子相关文案-->
-    <String id="appcenter.newapp.title">系统提醒：</String>
+    <String id="appcenter.newapp.title">系统Reminder：</String>
     <String id="appcenter.newapp.content">您有%d个新添加的应用</String>
     <String id="appcenter.digit.number.appstore">应用市场有%d个新应用</String>
     <String id="enter.appcenter.tooltips">打开应用盒子</String>
@@ -3000,7 +3003,7 @@
     <String id="AppCenter.RemindTip">将常用的应用拖动到此，赶紧尝试一下吧！</String>
     <String id="AppCenter.DelItem">您确认彻底删除</String>
     <String id="AppCenter.DelItemSuffix">吗？删除后可以从应用市场找回。</String>
-    <String id="AppCenter.DelItemCaption">提醒</String>
+    <String id="AppCenter.DelItemCaption">Reminder</String>
     <String id="AppCenter.AddFullHotList">常用栏已满，请移除部分应用后再添加</String>
     <String id="AppCenter.DelItemFromHotList">从常用应用栏移除</String>
     <String id="AppCenter.DelItemFromNormalList">从应用盒子删除</String>
@@ -3018,26 +3021,26 @@
     <String id="chat_dialog_localreminder_wxonline"><![CDATA[<S><I><T>对方使用</T><L/></I><I><T>旺信</T><L>lr.wangxin</L></I><I><T>登录，随时收发聊天消息！</T><L/></I></S>]]></String>
     <String id="chat_dialog_localreminder_addcontact"><![CDATA[<S><I><T>对方还不是您的好友，</T><L/></I><I><T>加为好友</T><L>lr.addcontact</L></I><I><T>交流更方便。</T><L/></I></S>]]></String>
     <String id="chat_dialog_localreminder_collectstore"><![CDATA[<S><I><T>对方是卖家，您可</T><L/></I><I><T>收藏TA的店铺</T><L>lr.collectstore</L></I><I><T>，方便以后查找</T><L/></I></S>]]></String>
-    <String id="chat_dialog_localreminder_byphone"><![CDATA[<S><I><T>对方正在使用手机登录阿里旺旺。</T><L/></I></S>]]></String>
-    <String id="chat_dialog_localreminder_offlinemsg_to_sms"><![CDATA[<S><I><T>对方设置了离线消息转手机业务，您的消息将免费转发到对方手机。</T><L/></I></S>]]></String>
+    <String id="chat_dialog_localreminder_byphone"><![CDATA[<S><I><T>对方正在使用Mobile登录阿里旺旺。</T><L/></I></S>]]></String>
+    <String id="chat_dialog_localreminder_offlinemsg_to_sms"><![CDATA[<S><I><T>对方设置了离线消息转Mobile业务，您的消息将免费转发到对方Mobile。</T><L/></I></S>]]></String>
 	<!--系统浮出窗口-->
 	<String id="SysNotify.Status.ChangeToOnline.Wx">旺信上线了</String>
 	<String id="SysNotify.Status.ChangeToOnline">上线了</String>
 	<String id="SysNotify.Status.ChangeToOffline">下线了</String>
 	<String id="SysNotify.recvmsg.Text1">收到</String>
 	<String id="SysNotify.recvmsg.Text2">的消息</String>
-	<String id="SysNotify.quit.Text1">确定要退订当前浮出提醒？</String>
-	<String id="SysNotify.quit.Text2">需要继续订阅当前浮出提醒，请点击</String>
+	<String id="SysNotify.quit.Text1">确定要退订当前浮出Reminder？</String>
+	<String id="SysNotify.quit.Text2">需要继续订阅当前浮出Reminder，请点击</String>
 	<String id="SysNotify.quit.Text3">系统设置-订阅设置</String>
 	<String id="SysNotify.quit.title">退订</String>
 	<String id="notifyurldangerous.copy">您刚复制信息中包含恶意网址</String>
     <String id="notifyurldangerous.click">您刚打开的链接包含恶意网址</String>
-    <String id ="sysmsg.danger.url.title">安全提示</String>
+    <String id ="sysmsg.danger.url.title">Security提示</String>
 
     <!--DPCtrl-->
-    <String id="DPCtrl.PrevYear">上一年(长按连续递减)</String>
+    <String id="DPCtrl.PrevYear">上一年(Long Press to Decrease)</String>
     <String id="DPCtrl.NextYear">下一年(长按连续递增)</String>
-    <String id="DPCtrl.PrevMonth">上一月(长按连续递减)</String>
+    <String id="DPCtrl.PrevMonth">上一月(Long Press to Decrease)</String>
     <String id="DPCtrl.NextMonth">下一月(长按连续递增)</String>
     <String id="DPCtrl.Close">关闭</String>
     <String id="DPCtrl.Sun">日</String>
@@ -3054,14 +3057,14 @@
     <String id="DPCtrl.Thursday">星期四</String>
     <String id="DPCtrl.Friday">星期五</String>
     <String id="DPCtrl.Saturday">星期六</String>
-		<!-- 免打扰提醒框 -->
+		<!-- 免打扰Reminder框 -->
 		<String id="ShakeMessages.cannot.quiet">对方处于免打扰状态，无法接受振屏。</String>
 		<String id="chat_dialog_localreminder_quietstatus"><![CDATA[<S><I><T>对方为“请勿打扰”状态，可能不方便接收您的消息。</T><L/></I></S>]]></String>
 		<String id="QuietStutus_Msgs_Comming">请勿打扰-有新消息</String>
 		<String id="QuietStutus_NotiyWnd_Title">阿里旺旺</String>
 		<String id="QuietStutus_NotiyWnd_Text1">切换到“请勿打扰”状态，</String>
 		<String id="QuietStutus_NotiyWnd_Text2">收到的未读消息将直接保存在最近会话列表。</String>
-		<String id="QuietStutus_NotiyWnd_SaveCheck">不再提醒</String>
+		<String id="QuietStutus_NotiyWnd_SaveCheck">不再Reminder</String>
 		<String id="QuietStutus_Msgs_FloatMsgs">浮出消息</String>
 		<String id="QuietStutus_Msgs_Format">\C0\S0xa.0xc8\F微软雅黑\T</String>
 		<String id="QuietStutus_Msgs_Format_ST">\C0\S0xa.0xc8\F宋体\T</String>
@@ -3081,11 +3084,11 @@
     <!--快速发送-->
     <String id ="quicklysend.caption">快速发送</String>
     <String id ="quicklysend.caption.format">快速发送 - %s</String>
-    <String id ="quicklysend.help"><![CDATA[输入昵称或群+消息，Enter快速发送
-输入昵称或群，Enter打开聊天窗口输入昵称或群+消息，Ctrl+Enter发送并打开聊天窗口]]></String>
-    <String id ="quicklysend.edit.caption.default"><![CDATA[输入格式：昵称或群+消息]]></String>
+    <String id ="quicklysend.help"><![CDATA[Input昵称或群+消息，Enter快速发送
+Input昵称或群，Enter打开聊天窗口Input昵称或群+消息，Ctrl+Enter发送并打开聊天窗口]]></String>
+    <String id ="quicklysend.edit.caption.default"><![CDATA[Input格式：昵称或群+消息]]></String>
     <String	id ="quicklysend.search.result.1">没有找到好友</String>
-    <String	id ="quicklysend.search.result.2">没有找到好友；发送消息，请先输入空格</String>
+    <String	id ="quicklysend.search.result.2">没有找到好友；发送消息，请先Input空格</String>
     <String	id ="quicklysend.search.result.notcontact.fmt">无法识别的联系人：%s</String>
     <String	id ="quicklysend.send.result.ok">消息已经发送成功</String>
     <String	id ="quicklysend.send.result.fail">消息发送失败</String>
@@ -3102,10 +3105,10 @@
     <String id="collectstoresuc.text1">店铺收藏成功！</String>
     <String id="collectstoresuc.close">确定</String>
     <String id="chatdlg.setting.tip">窗口设置</String>
-    <String id="chatdlg.inputbox.empty">请输入聊天内容！</String>
+    <String id="chatdlg.inputbox.empty">请Input聊天内容！</String>
 
 	<!--系统通知消息-->
-	<String id="SubscriptionUnsubText">退订后你将不再收到此类弹出提醒，是否确定退订！</String>
+	<String id="SubscriptionUnsubText">退订后你将不再收到此类弹出Reminder，是否确定退订！</String>
 
 	<!--搜索-->
 	<String	id="searchsite.sitetitle_taobao">宝贝搜索</String>
@@ -3118,7 +3121,7 @@
     <String	id="multichat.caption.invite">邀请讨论组成员</String>
     <String	id="multichat.start.error1">创建讨论组失败</String>
 	<String	id="multichat.invite.error.exist">此好友已加入该讨论组</String>
-    <String	id="multichat.invite.error1">邀请好友进入讨论组失败</String>
+    <String	id="multichat.invite.error1">邀请好友Enter讨论组失败</String>
     <String	id="multichat.quit.error1">退出讨论组失败</String>
     <String	id="multichat.item.addmember">添加成员</String>
     <String	id="multichat.item.quit">退出</String>
@@ -3130,7 +3133,7 @@
     <String id="multi.MSGTYPE_IM_NOTIFY_TRIBEMSG_QUITTRIBE"><![CDATA["%s"退出了讨论组]]></String>
     <String	id="multichat.create.warn">对不起，您的讨论组名额已满</String>
 
-	<String id="SelectMemberTip.Title4">提醒</String>
+	<String id="SelectMemberTip.Title4">Reminder</String>
 	<String id="SelectMemberTip.Tip">对不起，每次邀请的用户数不能超过%d名！</String>
 	<String id="SelectMemberTip.Tip2">对不起，每次推荐的用户数不能超过%d名！</String>
 
@@ -3191,11 +3194,11 @@
 	<!--新增启用群ui-->
 	<String id="tribe.enable.title">启用群</String>
 	<String id="tribe.enable.name">*群名称：</String>
-	<String id="tribe.enable.name.tip">请输入20个字内的群名称</String>
+	<String id="tribe.enable.name.tip">请Input20个字内的群名称</String>
 	<String id="tribe.enable.category">*群分类：</String>
 	<String id="tribe.enable.category.default">请选择群分类</String>
 	<String id="tribe.enable.intro">群介绍：</String>
-	<String id="tribe.enable.intro.tip">请输入50个字内的群简介</String>
+	<String id="tribe.enable.intro.tip">请Input50个字内的群简介</String>
 	<String id="tribe.enable.intro.warning">群介绍不能超过50个字！</String>
 	<String id="tribe.enable.password.tip">Length 6-20 characters</String>
 	<String id="tribe.enable.check">*身份验证：</String>
@@ -3328,9 +3331,9 @@
 	<String id="filetransfer.download.success">文件已下载完成</String>
 	<String id="filetransfer.download.filenotexist">该文件已不存在，请重新下载</String>
 	<String id="filetransfer.preview.msgwithdrawed">文件已被撤回，无法查看</String>
-	<String id="FileTransfer.CloudDisk.ScanFileResult.Scanning">您下载的文件，正在进行安全扫描，风险未知，是否继续下载？</String>
-	<String id="FileTransfer.CloudDisk.ScanFileResult.Warn">您下载的文件，可能存在安全风险，是否确认下载？</String>
-	<String id="FileTransfer.CloudDisk.ScanFileResult.Virus">您下载的文件，存在安全风险，是否确认下载？</String>
-	<String id="FileTransfer.CloudDisk.ScanFileResult.Unknown">您下载的文件，未进行安全扫描，建议谨慎下载。</String>
+	<String id="FileTransfer.CloudDisk.ScanFileResult.Scanning">您下载的文件，正在进行Security扫描，风险未知，是否继续下载？</String>
+	<String id="FileTransfer.CloudDisk.ScanFileResult.Warn">您下载的文件，可能存在Security风险，是否确认下载？</String>
+	<String id="FileTransfer.CloudDisk.ScanFileResult.Virus">您下载的文件，存在Security风险，是否确认下载？</String>
+	<String id="FileTransfer.CloudDisk.ScanFileResult.Unknown">您下载的文件，未进行Security扫描，建议谨慎下载。</String>
   </Strings>
 </LocaleDetails>
